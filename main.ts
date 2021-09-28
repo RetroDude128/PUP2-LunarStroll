@@ -1039,8 +1039,6 @@ forever(function () {
         music.playMelody(music.convertRTTTLToMelody("Boss (6):d=4,o=5,b=300:8e4,8g4,8a4,8g4,8a4,8c,8a4,8g4,8e4,8g4,8e4,8g4,8a4,8c,8a4,8c,8a4,8g4,8e4,8g4,8e4,16d4,16e4,16g4,16e4,16d4,16e4,16g4,16a4,64c,64d,64e,64g,64a,64c6,64d6,64e6,16g6,16e6,16d6,16c6,16a,16g,16a,16g,16e,16d,16c,16a4,64g4,64a4,64c,64d,64e,64g,64a,64c6,64d6,64e6,64g6,64a6,64a6,64g6,64e6,64d6,64c6,64a,64g,64e,64d,64c,64a4,64g4,2e4,8d4,8c4,8d4,8e4,8g4,8e4,8g4,8a4,8g4,8e4,8g4,8d4,8c4,8d4,8c4,16d4,16e4,16g4,16e4,16g4,64a4,64c,64d,64e,64g,64a,64c6,64d6,16e6,16d6,16a,16e,16a4,16g4,16e4,16g4,16e4,32g4,32e4,32g4,32e4,32g4,32e4,32g4,32e4"), 600)
     } else if (music2 == 3) {
         music.playMelody(music.convertRTTTLToMelody("Welcome to the Band!:d=4,o=5,b=300:16c,16a4,8c,8g4,8d4,8g4,8e4,8g4,8c4,8c,8g4,8a4,8e4,8d4,8g4,8a4,8c,8c,8g4,8a4,8e4,8c4,8g4,8e4,8c4,8e4,8c4,8e4,8g4,8c,8e4,8g4,8e4,8a4,8g4,8e4,8d4,8e4,8g4,8e4,8d4,64e4,64g4,64a4,64c,64d,64e,64g,64a,16c6,16a,16g,16a,16g,16e,16d,16c,16d,16c,16a4,16e,16g,16a"), 600)
-    } else {
-        music.playMelody(music.convertRTTTLToMelody("into:d=4,o=5,b=150:8g.4,16a4,16c,d,16c,16a4,8g4,8e4,8g4,8d.4,16e4,16a4,16c,16e,d,e,8g.4,8a4,16c,d,8a.,64a,64g,64e,64d,a4,c,g4,8a4,16g4,8c."), 560)
     }
 })
 forever(function () {
