@@ -5,7 +5,8 @@
     "dependencies": {
         "device": "*",
         "pxt-rtttl": "github:pelikhan/pxt-rtttl#v0.0.10",
-        "Color Fading": "github:jwunderl/pxt-color#v0.2.1"
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
+        "controller": "*"
     },
     "files": [
         "main.blocks",

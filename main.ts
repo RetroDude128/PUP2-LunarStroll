@@ -1886,6 +1886,7 @@ forever(function () {
             . . . . . . . . . . . . . . . . 
             `)
         music.playTone(175, music.beat(BeatFraction.Half))
+        controller.vibrate(500)
         while (!(mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile6`))) {
             mySprite.vx = -200
             animation.stopAnimation(animation.AnimationTypes.All, mySprite)
@@ -1929,6 +1930,7 @@ forever(function () {
             `)
         scene.cameraShake(8, 200)
         music.playTone(147, music.beat(BeatFraction.Quarter))
+        controller.vibrate(500)
         mySprite.vx = 0
         while (!(controller.A.isPressed() || controller.right.isPressed() || controller.left.isPressed() || controller.up.isPressed())) {
             pause(1)
