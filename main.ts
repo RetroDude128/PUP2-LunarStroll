@@ -1578,7 +1578,7 @@ while (!(controller.A.isPressed())) {
 first_a += 1
 color.startFade(color.Arcade, color.Black, 500)
 pause(500)
-info.setLife(5)
+info.setLife(10)
 scene.setBackgroundImage(img`
     ................................................................................................................................................................
     ................................................................................................................................................................
@@ -2072,6 +2072,7 @@ forever(function () {
         Boss = 1
         music2 = 2
         Boss_HP = 10
+        music.stopAllSounds()
         Player_2.setPosition(mySprite.x, mySprite.y)
         mySprite2 = sprites.create(img`
             ........fffffffffffff...........
@@ -2110,5 +2111,18 @@ forever(function () {
         Player_2.setFlag(SpriteFlag.Invisible, true)
     } else {
         Player_2.setFlag(SpriteFlag.Invisible, false)
+    }
+})
+forever(function () {
+    if (Boss == 1) {
+        if (mySprite.overlapsWith(mySprite2)) {
+            if (mySprite.y < mySprite2.y) {
+                Boss_HP += -1
+            } else {
+                tiles.placeOnRandomTile(mySprite, assets.tile`myTile`)
+                info.changeLifeBy(-1)
+                merge = 0
+            }
+        }
     }
 })
