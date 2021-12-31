@@ -6,7 +6,8 @@
         "device": "*",
         "pxt-rtttl": "github:pelikhan/pxt-rtttl#v0.0.10",
         "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
-        "controller": "*"
+        "controller": "*",
+        "pxt-scaling": "github:jwunderl/pxt-scaling#v0.1.0"
     },
     "files": [
         "main.blocks",
