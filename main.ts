@@ -28,9 +28,11 @@
  * 
  * Boss Phase 2 - https://www.beepbox.co/#9n31s0k0l00e0at4Ia7g0fj07r1i0o432T0v0u00f0qM012d04w2h0E0T1v2u16f0q00d03A0F0B0Q0000Pff00E1617T3v4uaef0q0w10p7d23Sp99f9c9Vppbaa9gE1b9T2v5u15f10w4qw02d03w0E0b4z8Oczhg00000000000000000000000000000000000p22IFEZp8TROipsdCnw5PbRUeRMDDQUzl1So7N0f530Xn2uAhQ4t2qD_qGKLGSYCKKHbOqWWILi8W2eyCOGGhjnZUbpCXBCRlp1ptmzgu8XkBllOCvrtlyujlnkCR-sCGKCChFF5dN_2ijW-bnanVlwkSLFbFaA1sT7DphfujGrzO2Y0
  * 
+ * Boss Phase 2(Original/Pup2 OG Final Boss Theme Remix): https://www.beepbox.co/#8n31s0k0l00e08t4Im0a7g0fj07i0r1o3210T0v0L4u11q0d0f8y0z1C2w1c0h0T1v2L4u16q0d1fay0z1C0c0A0F0B0V1Q0000Pff00E0711T3v4L4uaeq1d2f8y2z9C0Sp99f9c9Vppbaa9gT2v5L4u15q0d1f8y0z1C2w0b4z8Ocz00000h8i4x8000014h4h4g00004h4h4h00000p21HFEZqhLHAEeCSySSSOSCTihQ4t2qDMlcLdtBh7hllkhQlll4vo8W2ewzHFIJjnZUbpCwFKfUAA-LyROHYGMarnQHFaA1sT7DpiuYDkT7A5U0
+ * 
  * Phase 2 Transition - https://www.beepbox.co/#9n31s0k0l00e04t4Ia7g0fj07r1i0o432T0v1u00f0qM012d04w2h0E0T5v1ua4f62ge2ec2f02j01960meq8141d36HT-Iqijriiiih99h0E0T1v1uacf0q011d03AbF6B0Q2580PfffaE501602612622636T2v1u15f10w4qw02d03w0E0b4zhg0000000h4g000000014h000000004h400000000p21JFH_kB3RkFJv8i-qYRFHY5d7WCnRCn1ZXb-24330y0FILzR2jGJIKKBIIx9ajHFWCKKHmAqHbeJWw5PbQc3JitZdddddf7RV_4vNn_Jsu00000
  * 
- * Final Boss(True): https://www.beepbox.co/#9n31s0k0l00e0ct2ma7g0fj07r1i0o432T1v1uc0f10l7q011d23A4F3B5Q0506Pd474E361963279T1v1u76f10p7q011d03A1F9B2Q1030Pfc6cE362663b72T0v1u00f0qM012d04w2h0E0T2v1u15f10w4qw02d03w0E0b4h400000000h4g000000014z4id5pU004h400000000p23I002CRZp8OddCzWN4RnjghpKshkTjldpvcZjJekzVKtJfkZjmpKkQSSpvvkzQA595jldkRjCaU5t8BekzkRjBekR9ykRjlefpurQfbODatUmF8-BAkAr__X__X__X__XKXHKVa__-__-__-__-XKWXKhL__L__L__L__jpv2q_kBL89CLVODAQuzUhtfQB7xJQVjJdQVjt9jil-2VIrQTj9Z1jc4RjmOnjpdYRrre9O00
+ * Final Boss(Old): https://www.beepbox.co/#9n31s0k0l00e0ct2ma7g0fj07r1i0o432T1v1uc0f10l7q011d23A4F3B5Q0506Pd474E361963279T1v1u76f10p7q011d03A1F9B2Q1030Pfc6cE362663b72T0v1u00f0qM012d04w2h0E0T2v1u15f10w4qw02d03w0E0b4h400000000h4g000000014z4id5pU004h400000000p23I002CRZp8OddCzWN4RnjghpKshkTjldpvcZjJekzVKtJfkZjmpKkQSSpvvkzQA595jldkRjCaU5t8BekzkRjBekR9ykRjlefpurQfbODatUmF8-BAkAr__X__X__X__XKXHKVa__-__-__-__-XKWXKhL__L__L__L__jpv2q_kBL89CLVODAQuzUhtfQB7xJQVjJdQVjt9jil-2VIrQTj9Z1jc4RjmOnjpdYRrre9O00
  * 
  * Final Boss(Pitched up): https://www.beepbox.co/#9n31s0k0l00e0ct2ma7g0fj07r1i0o432T0v1u00f0qM012d04w2h0E0T1v1u77f10o9q011d03A1F9B4Q1003Pfb94E262963bT1v1ub7f0q0x10p71d23A5F4B9Q0001Pffa7E4b862363379T2v1u15f10w4qw02d03w0E0b4ich8QlDw00h4g000000014h000000004h400000000p23IFJvmiczjpE-IkARfkAmrD4ldQRjmnPfkXjB8-rDrjRfkRCrBddJCnTR8Z91ihkRjldkVyK1ni9jB8RdkVjBdioBdkRjzSnCZ3OYFODu5GifFp596__-__-__-__-XKWXKiL__L__L__L__KXKKXAr__X__X__X__QSnMCLR9rO2pH-sKFd7ITx5Q_iku6njBeQTjBdQBd9nU1b6PRfh7Q5cMjldr9rdATPlJIUD80000
  * 
@@ -834,10 +836,8 @@ function Find_nearest_Checkpoint_Flag (X: number, Y: number) {
     Tilemap_Scan_Y = 0
     for (let index = 0; index < 128; index++) {
         for (let index = 0; index < 128; index++) {
-            if (tiles.tileAtLocationEquals(tiles.getTileLocation(Tilemap_scan_X, Tilemap_Scan_Y), assets.tile`myTile6`)) {
-                Tile_Pos_X.unshift(Tilemap_scan_X)
-                Tile_Pos_Y.unshift(Tilemap_Scan_Y)
-            }
+            Tile_Pos_X.unshift(Tilemap_scan_X)
+            Tile_Pos_Y.unshift(Tilemap_Scan_Y)
             Tilemap_scan_X += 1
         }
         Tilemap_scan_X = 0
@@ -1941,20 +1941,22 @@ forever(function () {
 })
 forever(function () {
     if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile18`)) {
-        for (let value of tiles.getTilesByType(assets.tile`myTile`)) {
-            tiles.setTileAt(value, assets.tile`transparency16`)
+        if (tiles.tileAtLocationEquals(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 1 + merge), assets.tile`myTile18`)) {
+            for (let value of tiles.getTilesByType(assets.tile`myTile`)) {
+                tiles.setTileAt(value, assets.tile`transparency16`)
+            }
+            tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 1 + merge), assets.tile`myTile22`)
+            tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 2 + merge), assets.tile`myTile`)
+            music.playTone(262, music.beat(BeatFraction.Sixteenth))
+            music.playTone(330, music.beat(BeatFraction.Sixteenth))
+            music.playTone(392, music.beat(BeatFraction.Sixteenth))
+            music.playTone(294, music.beat(BeatFraction.Sixteenth))
+            music.playTone(349, music.beat(BeatFraction.Sixteenth))
+            music.playTone(440, music.beat(BeatFraction.Sixteenth))
+            music.playTone(330, music.beat(BeatFraction.Sixteenth))
+            music.playTone(392, music.beat(BeatFraction.Sixteenth))
+            music.playTone(494, music.beat(BeatFraction.Quarter))
         }
-        tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 1 + merge), assets.tile`myTile22`)
-        tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 2 + merge), assets.tile`myTile`)
-        music.playTone(262, music.beat(BeatFraction.Sixteenth))
-        music.playTone(330, music.beat(BeatFraction.Sixteenth))
-        music.playTone(392, music.beat(BeatFraction.Sixteenth))
-        music.playTone(294, music.beat(BeatFraction.Sixteenth))
-        music.playTone(349, music.beat(BeatFraction.Sixteenth))
-        music.playTone(440, music.beat(BeatFraction.Sixteenth))
-        music.playTone(330, music.beat(BeatFraction.Sixteenth))
-        music.playTone(392, music.beat(BeatFraction.Sixteenth))
-        music.playTone(494, music.beat(BeatFraction.Quarter))
     }
 })
 forever(function () {
@@ -2060,6 +2062,9 @@ forever(function () {
     }
     if (Player_2.tileKindAt(TileDirection.Bottom, assets.tile`myTile23`)) {
         tiles.placeOnRandomTile(Player_2, assets.tile`myTile`)
+    }
+    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile28`)) {
+        mySprite.fy = 50
     }
 })
 forever(function () {
@@ -3503,28 +3508,28 @@ forever(function () {
                     ....................
                     ...........ffff.....
                     ..........f1111f....
-                    .db..db..f111111f...
-                    .b...dd.f11199999f..
-                    .d.d....f11199f99f..
-                    ..dbd.b.f111999f9f..
+                    .........f111111f...
+                    ........f11199999f..
+                    ........f11199f99f..
+                    ........f111999f9f..
                     ........f11199999f..
                     .........f111111f...
                     .99999....f1111f....
                     ..9.9...9..ffff.....
                     ....99.99999........
-                    .....9...99999......
+                    ....9999999999......
                     ...999999999........
                     `,img`
                     ....................
                     ....................
                     ....................
                     ............ffff....
-                    .....db....f1111f...
-                    ...d......f111111f..
-                    bd.bd....f11199999f.
+                    ...........f1111f...
+                    ..........f111111f..
+                    .........f11199999f.
                     .........f11199f99f.
-                    ..bd.....f111999f9f.
-                    ....db...f11199999f.
+                    .........f111999f9f.
+                    .........f11199999f.
                     ..........f111111f..
                     ...........f1111f...
                     9......9.9..ffff....
@@ -3537,11 +3542,11 @@ forever(function () {
                     ....................
                     ...........ffff.....
                     ..........f1111f....
-                    ......b..f111111f...
-                    ....d...f11199999f..
-                    .bd.bd..f11199f99f..
+                    .........f111111f...
+                    ........f11199999f..
+                    ........f11199f99f..
                     ........f111999f9f..
-                    ...bd...f11199999f..
+                    ........f11199999f..
                     .........f111111f...
                     ....9.....f1111f....
                     99.9.......ffff.....
@@ -3555,10 +3560,10 @@ forever(function () {
                     ............ffff....
                     ...........f1111f...
                     ..........f111111f..
-                    ......bd.f11199999f.
-                    dd..ddd..f11199f99f.
-                    bd.d.....f111999f9f.
-                    ...db....f11199999f.
+                    .........f11199999f.
+                    .........f11199f99f.
+                    .........f111999f9f.
+                    .........f11199999f.
                     ..........f111111f..
                     .....99....f1111f...
                     999999..9...ffff....
@@ -3573,10 +3578,10 @@ forever(function () {
                     ..........f1111f....
                     .........f111111f...
                     ........f11199999f..
-                    ...bd.d.f11199f99f..
-                    ....ddb.f111999f9f..
-                    .d......f11199999f..
-                    .bd......f111111f...
+                    ........f11199f99f..
+                    ........f111999f9f..
+                    ........f11199999f..
+                    .........f111111f...
                     ....99.9..f1111f....
                     .9.99.9999.ffff.....
                     999.99.9999.........
@@ -3589,10 +3594,10 @@ forever(function () {
                     ............ffff....
                     ...........f1111f...
                     ..........f111111f..
-                    .....d...f11199999f.
-                    bd...b...f11199f99f.
-                    ddd.dd...f111999f9f.
-                    .db......f11199999f.
+                    .........f11199999f.
+                    .........f11199f99f.
+                    .........f111999f9f.
+                    .........f11199999f.
                     ..........f111111f..
                     ....99.9...f1111f...
                     ...99.99.99.ffff....
@@ -3650,7 +3655,7 @@ forever(function () {
         controller.moveSprite(mySprite, 100, 0)
     }
     if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile25`)) {
-        effects.confetti.startScreenEffect(2000)
+        effects.confetti.startScreenEffect(5000)
     }
 })
 forever(function () {
