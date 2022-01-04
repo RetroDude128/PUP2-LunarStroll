@@ -3665,3 +3665,14 @@ forever(function () {
             `)
     }
 })
+forever(function () {
+    if (Fuse == 1 && mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile5`)) {
+        tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16) - 1, Math.round(mySprite.y / 16) + 1), assets.tile`transparency16`)
+        tiles.setWallAt(tiles.getTileLocation(Math.round(mySprite.x / 16) - 1, Math.round(mySprite.y / 16) + 1), false)
+        tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16) - 2, Math.round(mySprite.y / 16) + 1), assets.tile`transparency16`)
+        tiles.setWallAt(tiles.getTileLocation(Math.round(mySprite.x / 16) - 2, Math.round(mySprite.y / 16) + 1), false)
+        tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) + 1), assets.tile`transparency16`)
+        tiles.setWallAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) + 1), false)
+        scene.cameraShake(8, 500)
+    }
+})
