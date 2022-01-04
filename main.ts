@@ -11,31 +11,33 @@
  * 
  * https://www.beepbox.co/#8n31s0k0l00e03t2mm0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T1v1L4uf1q3d5f7y0zjC0c0A1F0B0V1Q1845Pe354E034aT1v1L4u75q1d0fay0z1C1c0A0F0B7V1Q0000Pfdb0E0193T2v1L4u15q0d1f8y0z1C2w0b0ic00000000h4g000000014h000000004h400000000p225FBZwpeGjGjh_4qptFHFF8SpuYPhqJHbGPjbVtwJtgJBmpARAt5wKnCmmRmSSlkRQSlkR_tBBltlHSLZKY1jhYiRdsJl0QAsMlP75V7rq0DyWqfIOM4YnuZVJSw0nPbFGYwYb0
  */
-// music bpm = true*2
-// 
-// spls: https://www.beepbox.co/#8n31s0k0l00e00t2mm0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T1v1L4uf1q3d5f7y0zjC0c0A1F0B0V1Q1845Pe354E034aT1v1L4u75q1d0fay0z1C1c0A0F0B7V1Q0000Pfdb0E0193T2v1L4u15q0d1f8y0z1C2w0b4h400000000h4g000000014h000000004h400000000p1RFBZwpeGjGjh_7yU2pqqfEYn0jbjhZ7yU2prTL0aKM3MKptCpY7xo0
-// 
-// level: https://www.beepbox.co/#8n31s0k0l00e03t2mm0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T1v1L4ud0q1d2f9y1z1C0c0A0F3B7VjQ0201Pf431E0112T0v1L4u86q1d4f9y0z9C0w6c0h3T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b4ic00000000h4g000000014h000000004h400000000p1TFJvxdvwFEY7bOqVaCOCHIXltzdvPtupn8DaGOrPakOYQRkQRSkw0000
-// 
-// Boss: https://www.beepbox.co/#8n31s0k0l00e03t4Im0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T0v1L4ue6q3d7f8y6z5C0w5c0h2T1v1L4ue1q3d7f7y2zbC0c0A0F0B7V1Q0000Pe600E0911T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b4zk00000000h4g000000014h000000004h400000000p239FEZqW1FFHFGHFFFGHFFQRlQQFBQqqGqGqGTILw8fMEg8e3kRlSmQQTnOcBN6qKPu-6121ECHITLBAkAkSLH9EZ6hFGHFFIFLpuaLa9GW9GW9GXdXUo4865212ECHITLBAkkKqOVKYHbCXBkAkkRf6PljjjjBVBJRdvzarrGqsCKKCDzJXUo4871qqXpihAGqmq_Cg0000
-// 
-// Welcome to the Band!: https://www.beepbox.co/#8n31s0k0l00e02t4Im0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T1v1L4u44q1d1f6y1z6C1c0A1F0B7V7Q005dPd444E0876T1v1L4u65q1d5fay1z6C0c0A1F2B9V8Q00d0Pfc47E0181T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b4z000000000h40000000014g000000004h000000000p21KFBUAAQvdQFj9kOBBlJBJttCyGGOSKGGCCCGOGGDpllrjljkZBVGYxwgwkOURdlddtBJddRtBLmihwI2FHFGGGGFGFLwE6G4GHHFFKJFFF00000
-// 
-// spls(remix): https://www.beepbox.co/#8n31s0k0l00e03t2mm0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T1v1L4uf1q3d5f7y0zjC0c0A1F0B0V1Q1845Pe354E034aT1v1L4u75q1d0fay0z1C1c0A0F0B7V1Q0000Pfdb0E0193T2v1L4u15q0d1f8y0z1C2w0b0ic00000000h4g000000014h000000004h400000000p225FBZwpeGjGjh_4qptFHFF8SpuYPhqJHbGPjbVtwJtgJBmpARAt5wKnCmmRmSSlkRQSlkR_tBBltlHSLZKY1jhYiRdsJl0QAsMlP75V7rq0DyWqfIOM4YnuZVJSw0nPbFGYwYb0
-// 
-// Victory: https://www.beepbox.co/#9n31s0k0l00e00t4Ia7g0fj07r1i0o432T0v1u10f0qg01d04w2h0E0T5v1ua4f62ge2ec2f02j01960meq8141d36HT-Iqijriiiih99h0E0T1v1uacf0q011d03AbF6B0Q2580PfffaE501602612622636T2v1u15f10w4qw02d03w0E0b4h400000000h4g000000014h000000004h400000000p1jFH_kB3RkFJv8iY00000
-// 
-// Boss Phase 2 - https://www.beepbox.co/#9n31s0k0l00e0at4Ia7g0fj07r1i0o432T0v0u00f0qM012d04w2h0E0T1v2u16f0q00d03A0F0B0Q0000Pff00E1617T3v4uaef0q0w10p7d23Sp99f9c9Vppbaa9gE1b9T2v5u15f10w4qw02d03w0E0b4z8Oczhg00000000000000000000000000000000000p22IFEZp8TROipsdCnw5PbRUeRMDDQUzl1So7N0f530Xn2uAhQ4t2qD_qGKLGSYCKKHbOqWWILi8W2eyCOGGhjnZUbpCXBCRlp1ptmzgu8XkBllOCvrtlyujlnkCR-sCGKCChFF5dN_2ijW-bnanVlwkSLFbFaA1sT7DphfujGrzO2Y0
-// 
-// Boss Phase 2(Original/Pup2 OG Final Boss Theme Remix): https://www.beepbox.co/#8n31s0k0l00e08t4Im0a7g0fj07i0r1o3210T0v0L4u11q0d0f8y0z1C2w1c0h0T1v2L4u16q0d1fay0z1C0c0A0F0B0V1Q0000Pff00E0711T3v4L4uaeq1d2f8y2z9C0Sp99f9c9Vppbaa9gT2v5L4u15q0d1f8y0z1C2w0b4z8Ocz00000h8i4x8000014h4h4g00004h4h4h00000p21HFEZqhLHAEeCSySSSOSCTihQ4t2qDMlcLdtBh7hllkhQlll4vo8W2ewzHFIJjnZUbpCwFKfUAA-LyROHYGMarnQHFaA1sT7DpiuYDkT7A5U0
-// 
-// Phase 2 Transition - https://www.beepbox.co/#9n31s0k0l00e04t4Ia7g0fj07r1i0o432T0v1u00f0qM012d04w2h0E0T5v1ua4f62ge2ec2f02j01960meq8141d36HT-Iqijriiiih99h0E0T1v1uacf0q011d03AbF6B0Q2580PfffaE501602612622636T2v1u15f10w4qw02d03w0E0b4zhg0000000h4g000000014h000000004h400000000p21JFH_kB3RkFJv8i-qYRFHY5d7WCnRCn1ZXb-24330y0FILzR2jGJIKKBIIx9ajHFWCKKHmAqHbeJWw5PbQc3JitZdddddf7RV_4vNn_Jsu00000
-// 
-// Final Boss(Old): https://www.beepbox.co/#9n31s0k0l00e0ct2ma7g0fj07r1i0o432T1v1uc0f10l7q011d23A4F3B5Q0506Pd474E361963279T1v1u76f10p7q011d03A1F9B2Q1030Pfc6cE362663b72T0v1u00f0qM012d04w2h0E0T2v1u15f10w4qw02d03w0E0b4h400000000h4g000000014z4id5pU004h400000000p23I002CRZp8OddCzWN4RnjghpKshkTjldpvcZjJekzVKtJfkZjmpKkQSSpvvkzQA595jldkRjCaU5t8BekzkRjBekR9ykRjlefpurQfbODatUmF8-BAkAr__X__X__X__XKXHKVa__-__-__-__-XKWXKhL__L__L__L__jpv2q_kBL89CLVODAQuzUhtfQB7xJQVjJdQVjt9jil-2VIrQTj9Z1jc4RjmOnjpdYRrre9O00
-// 
-// Final Boss(Pitched up): https://www.beepbox.co/#9n31s0k0l00e0ct2ma7g0fj07r1i0o432T0v1u00f0qM012d04w2h0E0T1v1u77f10o9q011d03A1F9B4Q1003Pfb94E262963bT1v1ub7f0q0x10p71d23A5F4B9Q0001Pffa7E4b862363379T2v1u15f10w4qw02d03w0E0b4ich8QlDw00h4g000000014h000000004h400000000p23IFJvmiczjpE-IkARfkAmrD4ldQRjmnPfkXjB8-rDrjRfkRCrBddJCnTR8Z91ihkRjldkVyK1ni9jB8RdkVjBdioBdkRjzSnCZ3OYFODu5GifFp596__-__-__-__-XKWXKiL__L__L__L__KXKKXAr__X__X__X__QSnMCLR9rO2pH-sKFd7ITx5Q_iku6njBeQTjBdQBd9nU1b6PRfh7Q5cMjldr9rdATPlJIUD80000
-// 
-// Unused bpm correcton = true+260
+/**
+ * music bpm = true*2
+ * 
+ * spls: https://www.beepbox.co/#8n31s0k0l00e00t2mm0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T1v1L4uf1q3d5f7y0zjC0c0A1F0B0V1Q1845Pe354E034aT1v1L4u75q1d0fay0z1C1c0A0F0B7V1Q0000Pfdb0E0193T2v1L4u15q0d1f8y0z1C2w0b4h400000000h4g000000014h000000004h400000000p1RFBZwpeGjGjh_7yU2pqqfEYn0jbjhZ7yU2prTL0aKM3MKptCpY7xo0
+ * 
+ * level: https://www.beepbox.co/#8n31s0k0l00e03t2mm0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T1v1L4ud0q1d2f9y1z1C0c0A0F3B7VjQ0201Pf431E0112T0v1L4u86q1d4f9y0z9C0w6c0h3T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b4ic00000000h4g000000014h000000004h400000000p1TFJvxdvwFEY7bOqVaCOCHIXltzdvPtupn8DaGOrPakOYQRkQRSkw0000
+ * 
+ * Boss: https://www.beepbox.co/#8n31s0k0l00e03t4Im0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T0v1L4ue6q3d7f8y6z5C0w5c0h2T1v1L4ue1q3d7f7y2zbC0c0A0F0B7V1Q0000Pe600E0911T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b4zk00000000h4g000000014h000000004h400000000p239FEZqW1FFHFGHFFFGHFFQRlQQFBQqqGqGqGTILw8fMEg8e3kRlSmQQTnOcBN6qKPu-6121ECHITLBAkAkSLH9EZ6hFGHFFIFLpuaLa9GW9GW9GXdXUo4865212ECHITLBAkkKqOVKYHbCXBkAkkRf6PljjjjBVBJRdvzarrGqsCKKCDzJXUo4871qqXpihAGqmq_Cg0000
+ * 
+ * Welcome to the Band!: https://www.beepbox.co/#8n31s0k0l00e02t4Im0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T1v1L4u44q1d1f6y1z6C1c0A1F0B7V7Q005dPd444E0876T1v1L4u65q1d5fay1z6C0c0A1F2B9V8Q00d0Pfc47E0181T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b4z000000000h40000000014g000000004h000000000p21KFBUAAQvdQFj9kOBBlJBJttCyGGOSKGGCCCGOGGDpllrjljkZBVGYxwgwkOURdlddtBJddRtBLmihwI2FHFGGGGFGFLwE6G4GHHFFKJFFF00000
+ * 
+ * spls(remix): https://www.beepbox.co/#8n31s0k0l00e03t2mm0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T1v1L4uf1q3d5f7y0zjC0c0A1F0B0V1Q1845Pe354E034aT1v1L4u75q1d0fay0z1C1c0A0F0B7V1Q0000Pfdb0E0193T2v1L4u15q0d1f8y0z1C2w0b0ic00000000h4g000000014h000000004h400000000p225FBZwpeGjGjh_4qptFHFF8SpuYPhqJHbGPjbVtwJtgJBmpARAt5wKnCmmRmSSlkRQSlkR_tBBltlHSLZKY1jhYiRdsJl0QAsMlP75V7rq0DyWqfIOM4YnuZVJSw0nPbFGYwYb0
+ * 
+ * Victory: https://www.beepbox.co/#9n31s0k0l00e00t4Ia7g0fj07r1i0o432T0v1u10f0qg01d04w2h0E0T5v1ua4f62ge2ec2f02j01960meq8141d36HT-Iqijriiiih99h0E0T1v1uacf0q011d03AbF6B0Q2580PfffaE501602612622636T2v1u15f10w4qw02d03w0E0b4h400000000h4g000000014h000000004h400000000p1jFH_kB3RkFJv8iY00000
+ * 
+ * Boss Phase 2 - https://www.beepbox.co/#9n31s0k0l00e0at4Ia7g0fj07r1i0o432T0v0u00f0qM012d04w2h0E0T1v2u16f0q00d03A0F0B0Q0000Pff00E1617T3v4uaef0q0w10p7d23Sp99f9c9Vppbaa9gE1b9T2v5u15f10w4qw02d03w0E0b4z8Oczhg00000000000000000000000000000000000p22IFEZp8TROipsdCnw5PbRUeRMDDQUzl1So7N0f530Xn2uAhQ4t2qD_qGKLGSYCKKHbOqWWILi8W2eyCOGGhjnZUbpCXBCRlp1ptmzgu8XkBllOCvrtlyujlnkCR-sCGKCChFF5dN_2ijW-bnanVlwkSLFbFaA1sT7DphfujGrzO2Y0
+ * 
+ * Boss Phase 2(Original/Pup2 OG Final Boss Theme Remix): https://www.beepbox.co/#8n31s0k0l00e08t4Im0a7g0fj07i0r1o3210T0v0L4u11q0d0f8y0z1C2w1c0h0T1v2L4u16q0d1fay0z1C0c0A0F0B0V1Q0000Pff00E0711T3v4L4uaeq1d2f8y2z9C0Sp99f9c9Vppbaa9gT2v5L4u15q0d1f8y0z1C2w0b4z8Ocz00000h8i4x8000014h4h4g00004h4h4h00000p21HFEZqhLHAEeCSySSSOSCTihQ4t2qDMlcLdtBh7hllkhQlll4vo8W2ewzHFIJjnZUbpCwFKfUAA-LyROHYGMarnQHFaA1sT7DpiuYDkT7A5U0
+ * 
+ * Phase 2 Transition - https://www.beepbox.co/#9n31s0k0l00e04t4Ia7g0fj07r1i0o432T0v1u00f0qM012d04w2h0E0T5v1ua4f62ge2ec2f02j01960meq8141d36HT-Iqijriiiih99h0E0T1v1uacf0q011d03AbF6B0Q2580PfffaE501602612622636T2v1u15f10w4qw02d03w0E0b4zhg0000000h4g000000014h000000004h400000000p21JFH_kB3RkFJv8i-qYRFHY5d7WCnRCn1ZXb-24330y0FILzR2jGJIKKBIIx9ajHFWCKKHmAqHbeJWw5PbQc3JitZdddddf7RV_4vNn_Jsu00000
+ * 
+ * Final Boss(Old): https://www.beepbox.co/#9n31s0k0l00e0ct2ma7g0fj07r1i0o432T1v1uc0f10l7q011d23A4F3B5Q0506Pd474E361963279T1v1u76f10p7q011d03A1F9B2Q1030Pfc6cE362663b72T0v1u00f0qM012d04w2h0E0T2v1u15f10w4qw02d03w0E0b4h400000000h4g000000014z4id5pU004h400000000p23I002CRZp8OddCzWN4RnjghpKshkTjldpvcZjJekzVKtJfkZjmpKkQSSpvvkzQA595jldkRjCaU5t8BekzkRjBekR9ykRjlefpurQfbODatUmF8-BAkAr__X__X__X__XKXHKVa__-__-__-__-XKWXKhL__L__L__L__jpv2q_kBL89CLVODAQuzUhtfQB7xJQVjJdQVjt9jil-2VIrQTj9Z1jc4RjmOnjpdYRrre9O00
+ * 
+ * Final Boss(Pitched up): https://www.beepbox.co/#9n31s0k0l00e0ct2ma7g0fj07r1i0o432T0v1u00f0qM012d04w2h0E0T1v1u77f10o9q011d03A1F9B4Q1003Pfb94E262963bT1v1ub7f0q0x10p71d23A5F4B9Q0001Pffa7E4b862363379T2v1u15f10w4qw02d03w0E0b4ich8QlDw00h4g000000014h000000004h400000000p23IFJvmiczjpE-IkARfkAmrD4ldQRjmnPfkXjB8-rDrjRfkRCrBddJCnTR8Z91ihkRjldkVyK1ni9jB8RdkVjBdioBdkRjzSnCZ3OYFODu5GifFp596__-__-__-__-XKWXKiL__L__L__L__KXKKXAr__X__X__X__QSnMCLR9rO2pH-sKFd7ITx5Q_iku6njBeQTjBdQBd9nU1b6PRfh7Q5cMjldr9rdATPlJIUD80000
+ * 
+ * Unused bpm correcton = true+260
+ */
 controller.up.onEvent(ControllerButtonEvent.Pressed, function () {
     if (cutscene == 0) {
         if (mySprite.isHittingTile(CollisionDirection.Bottom)) {
@@ -1299,17 +1301,16 @@ controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
         }
     }
 })
-let Petscii_Smiler: Sprite = null
 let mySprite3: Sprite = null
-let Boss_HP = 0
 let mySprite2: Sprite = null
+let Boss_HP = 0
 let Boss = 0
+let a = 0
 let cutscene = 0
 let merge = 0
 let first_a = 0
 let Player_2: Sprite = null
 let mySprite: Sprite = null
-let a = 0
 // Kris get the banana.
 // 
 // Potassium
@@ -1881,6 +1882,628 @@ Player_2.x += -20
 controller.moveSprite(mySprite, 100, 0)
 scene.cameraFollowSprite(mySprite)
 tiles.placeOnRandomTile(mySprite4, assets.tile`myTile20`)
+forever(function () {
+    for (let value of tiles.getTilesByType(assets.tile`myTile3`)) {
+        tiles.setTileAt(value, assets.tile`myTile5`)
+    }
+    for (let value of tiles.getTilesByType(assets.tile`myTile4`)) {
+        tiles.setTileAt(value, assets.tile`myTile3`)
+    }
+    for (let value of tiles.getTilesByType(assets.tile`myTile5`)) {
+        tiles.setTileAt(value, assets.tile`myTile4`)
+    }
+    pause(200)
+})
+forever(function () {
+    if (music2 == 1) {
+        music.playMelody(music.convertRTTTLToMelody("level:d=4,o=5,b=150:2c,d,8e,g,8e,8c,8a4,8c,8d,8c,8a4,2c,d,8e,g,8e,8c,8a4,8c,8d,8c,8a4,2c,d,e,g,32e,32c,32e,32c,32e,32c,32e,32c,32d,32a4,32d,32a4,32d,32a4,32d,32a4,c,32c,32a4,32c,32a4,32c,32a4,32c,32a4,d,c,32d,32e,32d,32e,32d,32e,32d,32e,g,e,16g,16e,16d,16e,16d,16c,16a4,16c"), 300)
+    } else if (music2 == 2) {
+        music.playMelody(music.convertRTTTLToMelody("Boss (6):d=4,o=5,b=300:8e4,8g4,8a4,8g4,8a4,8c,8a4,8g4,8e4,8g4,8e4,8g4,8a4,8c,8a4,8c,8a4,8g4,8e4,8g4,8e4,16d4,16e4,16g4,16e4,16d4,16e4,16g4,16a4,64c,64d,64e,64g,64a,64c6,64d6,64e6,16g6,16e6,16d6,16c6,16a,16g,16a,16g,16e,16d,16c,16a4,64g4,64a4,64c,64d,64e,64g,64a,64c6,64d6,64e6,64g6,64a6,64a6,64g6,64e6,64d6,64c6,64a,64g,64e,64d,64c,64a4,64g4,2e4,8d4,8c4,8d4,8e4,8g4,8e4,8g4,8a4,8g4,8e4,8g4,8d4,8c4,8d4,8c4,16d4,16e4,16g4,16e4,16g4,64a4,64c,64d,64e,64g,64a,64c6,64d6,16e6,16d6,16a,16e,16a4,16g4,16e4,16g4,16e4,32g4,32e4,32g4,32e4,32g4,32e4,32g4,32e4"), 600)
+    } else if (music2 == 3) {
+        music.playMelody(music.convertRTTTLToMelody("Welcome to the Band!:d=4,o=5,b=300:16c,16a4,8c,8g4,8d4,8g4,8e4,8g4,8c4,8c,8g4,8a4,8e4,8d4,8g4,8a4,8c,8c,8g4,8a4,8e4,8c4,8g4,8e4,8c4,8e4,8c4,8e4,8g4,8c,8e4,8g4,8e4,8a4,8g4,8e4,8d4,8e4,8g4,8e4,8d4,64e4,64g4,64a4,64c,64d,64e,64g,64a,16c6,16a,16g,16a,16g,16e,16d,16c,16d,16c,16a4,16e,16g,16a"), 600)
+    } else if (music2 == 4) {
+        music.playMelody(music.convertRTTTLToMelody("Victory:d=4,o=5,b=300:g4,e4,d,g4,d,2d6"), 600)
+        music2 = 5
+    } else if (music2 == 5) {
+        // Brb gotta watch some anime
+        Find_nearest_Checkpoint_Flag("This function doesn't even work anymore")
+    } else if (music2 == 6) {
+        music.playMelody(music.convertRTTTLToMelody("Victory:d=4,o=5,b=300:g4,e4,d,g4,d,2d6"), 600)
+        pause(200)
+        music.playMelody(music.convertRTTTLToMelody("Phase 2 Tr:d=4,o=5,b=300:2p.,2c4,d4,8e4,16g4,32a4,32c,64d,64e,64g,64a,64c6,64d6,64g6,64a6,a.6,a6,e6,g6,a,d6,g,c6,d,g4,c,a4,e4,g4,e4,8g4,8c,8a4,8g4,8e4,8d4,8g4,8c,8a4,16d,32d,32e,64a4,64g,64a,64g,16a4,16e4,16g4,16e4,16g4,16e4,16g4,16e4,16g4,8c,8a4,16d,32d,32e,64a4,64g,64a,64g,16a4,8e4"), 600)
+        music2 += 1
+    } else if (music2 == 7) {
+        music.playMelody(music.convertRTTTLToMelody("Boss2:d=4,o=5,b=300:8e4,8d4,8g4,8c,8a4,16d,32d,32e,64a4,64g,64a,64g,16a4,8e4,16g4,16e4,8d4,8g4,8c,8a4,16d,32d,32e,64a4,64g,64a,64g,16a4,8e4,8a4,8p,8a4,8p,8a4,8g.4,16e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,8a4,8p,8a4,8p,8a4,8e4,8g4,8a4,8e4,8d4,g4,8e,8a4,c,8a4,8p,8a4,8p,8a4,8g.4,16e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,8a4,8p,8a4,8p,8a4,8e4,8g4,8a4,8e4,8d4,g4,8e,8a4,c,8a4,8p,8a4,8p,8a4,8g.4,16e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,8a4,8p,8a4,8p,8a4,8e4,8g4,8a4,8e4,8d4,g4,8e,8a4,c,8a4,8p,8a4,8p,8a4,8g.4,16e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,8a4,8p,8a4,8p,8a4,8e4,8g4,8a4,8e4,8d4,g4,8e,8a4,c,d,g4,16c,16d,16e,16g,c,e,8c6,8e6,d6,16c6,16a,16d6,16c6,a,16d,16e,16c,16d,a4,16d,16c,16e,16d,2e,16d,16c,16a4,16c,16a4,16g4,16a4,16g4"), 600)
+    } else if (music2 == 8) {
+        music.playMelody(music.convertRTTTLToMelody("Final Boss:d=4,o=5,b=150:2e4,2d4,2c4,2d4,2e4,2d4,2c4,2d4,32e4,32g,32e4,32g,32e4,32a,32e4,32a,32e4,32c6,32e4,32c6,32e4,32e,32e4,32e,2d4,32c4,32d,32c4,32d,32c4,32e,32c4,32e,32c4,32d,32c4,32d,32c4,32e,32c4,32e,2d4,32e4,32g,32e4,32g,32e4,32d,32e4,32d,32e4,32e,32e4,32e,32e4,32c,32e4,32c,2d4,32c4,32d,32c4,32d,32c4,32g,32c4,32g,32c4,32e,32c4,32e,32c4,32g,32c4,32g,2d4,2e4,2d4,2c4,2d4,2e4,2d4,2c4,2d4,32e4,32g,32e4,32g,32e4,32a,32e4,32a,32e4,32c6,32e4,32c6,32e4,32e,32e4,32e,2d4,32c4,32d,32c4,32d,32c4,32e,32c4,32e,32c4,32d,32c4,32d,32c4,32e,32c4,32e,2d4,32e4,32g,32e4,32g,32e4,32d,32e4,32d,32e4,32e,32e4,32e,32e4,32c,32e4,32c,2d4,32c4,32d,32c4,32d,32c4,32g,32c4,32g,32c4,32e,32c4,32e,32c4,32g,32c4,32g,2d4,2e4,2d4,2e4,2d,32e,32c6,32e,32d6,32e,32e6,32e,32g6,32e,32e6,32e,32g6,32e,32e6,32e,32c6,2a4,32c,32e,32c,32g,32c,32c6,32c,32a,32c,32c6,32c,32e,32c,32g,32c,32e,32g4,32d,32g4,32e,32g4,32d,32g4,32g,64g4,64e,64c6,64e6,32g4,32g,32g4,32e,32g4,32d,64c7,64a6,64g6,64e6,64d6,64c6,64a,64g,64c7,64a6,64g6,64e6,64d6,64c6,64a,64g,64c7,64a6,64g6,64e6,64d6,64c6,64a,64g,64a6,64g6,64e6,64d6,64c6,64a,64g,64e,64a6,64g6,64e6,64d6,64c6,64a,64g,64e,64a6,64g6,64e6,64d6,64c6,64a,64g,64e,64g6,64e6,64d6,64c6,64a,64g,64e,64d,64g6,64e6,64d6,64c6,64a,64g,64e,64d,64g6,64e6,64d6,64c6,64a,64g,64e,64d,d.,a4,d4,2e4,32d4,32e,32d4,32e,32d4,32e,32d4,32e,32a,32d4,32a,32d4,32a,32d4,32a,32d4,8c4,32c4,32e,32c4,32e,32c4,32g,32c4,32g,32c4,32c6,32c4,32c6,32d4,32g,32d4,32e,32d4,32a,32d4,32g,32d4,32c6,32d4,32a,32d4,32d6,32d4,32e6,32e4,32g6,32e4,32g6,32e4,32g6,32e4,32g6,32e4,32c6,32e4,32c6,32e4,32a,32e4,32a,32e,32d4,32e,32d4,32g,32d4,32g,32d4,32a4,32d4,32a4,32d4,32g,32d4,32g,32d4,32e,32c4,32e,32c4,32a,32c4,32a,32c4,32g,32c4,32g,32c4,32c6,32c4,32c6,32c4,32g,32d4,32g,32d4,32e,32d4,32e,32d4,32c,32d4,32c,32d4,32c,32d4,32c,32d4"), 300)
+    }
+})
+forever(function () {
+    a += 1
+})
+forever(function () {
+	
+})
+forever(function () {
+    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile18`)) {
+        if (tiles.tileAtLocationEquals(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 1 + merge), assets.tile`myTile18`)) {
+            for (let value of tiles.getTilesByType(assets.tile`myTile`)) {
+                tiles.setTileAt(value, assets.tile`transparency16`)
+            }
+            tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 1 + merge), assets.tile`myTile22`)
+            tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 2 + merge), assets.tile`myTile`)
+            music.playTone(262, music.beat(BeatFraction.Sixteenth))
+            music.playTone(330, music.beat(BeatFraction.Sixteenth))
+            music.playTone(392, music.beat(BeatFraction.Sixteenth))
+            music.playTone(294, music.beat(BeatFraction.Sixteenth))
+            music.playTone(349, music.beat(BeatFraction.Sixteenth))
+            music.playTone(440, music.beat(BeatFraction.Sixteenth))
+            music.playTone(330, music.beat(BeatFraction.Sixteenth))
+            music.playTone(392, music.beat(BeatFraction.Sixteenth))
+            music.playTone(494, music.beat(BeatFraction.Quarter))
+        }
+    }
+})
+forever(function () {
+    if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile0`)) {
+        tiles.placeOnRandomTile(mySprite, assets.tile`myTile`)
+        if (merge == 0) {
+            info.changeLifeBy(-1)
+        } else {
+            merge = 0
+        }
+        animation.stopAnimation(animation.AnimationTypes.All, mySprite)
+        animation.runImageAnimation(
+        mySprite,
+        [img`
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . f f f f . . . . . . 
+            . . . . . f 1 1 1 1 f . . . . . 
+            . . . . f 1 1 1 1 1 1 f . . . . 
+            . . . f 9 9 9 9 9 1 1 1 f . . . 
+            . . . f 9 f 9 9 9 1 1 1 f . . . 
+            . . . f 9 f 9 9 9 1 1 1 f . . . 
+            . . . f 9 9 9 9 9 1 1 1 f . . . 
+            . . . . f 1 1 1 1 1 1 f . . . . 
+            . . . . . f 1 1 1 1 f . . . . . 
+            . . . . . . f f f f . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . f f f f . . . . . . 
+            . . . . . f 9 9 9 9 f . . . . . 
+            . . . . . f f f f f f . . . . . 
+            `],
+        200,
+        true
+        )
+    }
+    if (Player_2.tileKindAt(TileDirection.Bottom, assets.tile`myTile0`)) {
+        tiles.placeOnRandomTile(Player_2, assets.tile`myTile`)
+    }
+    if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile2`)) {
+        mySprite.vy = -200
+        mySprite.vx = 400
+    }
+    if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile10`)) {
+        mySprite.vy = -200
+        mySprite.vx = -400
+    }
+    if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile8`)) {
+        mySprite.vy = -400
+    }
+    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile9`)) {
+        mySprite.vy = -80
+    }
+    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile11`)) {
+        mySprite.vy = -160
+    }
+    if (mySprite.tileKindAt(TileDirection.Left, assets.tile`myTile13`)) {
+        mySprite.vx = -50
+    }
+    if (mySprite.tileKindAt(TileDirection.Right, assets.tile`myTile12`)) {
+        mySprite.vx = 50
+    }
+    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile14`)) {
+        mySprite.vx = 0
+    }
+    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile13`)) {
+        mySprite.vx = -50
+    }
+    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile12`)) {
+        mySprite.vx = 50
+    }
+    if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile23`)) {
+        tiles.placeOnRandomTile(mySprite, assets.tile`myTile`)
+        if (merge == 0) {
+            info.changeLifeBy(-1)
+        } else {
+            merge = 0
+        }
+        animation.stopAnimation(animation.AnimationTypes.All, mySprite)
+        animation.runImageAnimation(
+        mySprite,
+        [img`
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . f f f f . . . . . . 
+            . . . . . f 1 1 1 1 f . . . . . 
+            . . . . f 1 1 1 1 1 1 f . . . . 
+            . . . f 9 9 9 9 9 1 1 1 f . . . 
+            . . . f 9 f 9 9 9 1 1 1 f . . . 
+            . . . f 9 f 9 9 9 1 1 1 f . . . 
+            . . . f 9 9 9 9 9 1 1 1 f . . . 
+            . . . . f 1 1 1 1 1 1 f . . . . 
+            . . . . . f 1 1 1 1 f . . . . . 
+            . . . . . . f f f f . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . f f f f . . . . . . 
+            . . . . . f 9 9 9 9 f . . . . . 
+            . . . . . f f f f f f . . . . . 
+            `],
+        200,
+        true
+        )
+        mySprite.vy = -20
+    }
+    if (Player_2.tileKindAt(TileDirection.Bottom, assets.tile`myTile23`)) {
+        tiles.placeOnRandomTile(Player_2, assets.tile`myTile`)
+    }
+    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile28`)) {
+        mySprite.fy = 50
+    }
+})
+forever(function () {
+    if (cutscene == 0) {
+        mySprite.vy += 5
+        Player_2.vy += 5
+    }
+})
+forever(function () {
+    for (let index = 0; index < 5; index++) {
+        if (mySprite.x - Player_2.x >= 40 || mySprite.x - Player_2.x <= -40) {
+            for (let index = 0; index < 4; index++) {
+                if (convertToText(mySprite.x - Player_2.x).includes("-")) {
+                    Player_2.setImage(img`
+                        . . . . . . . . . . . . . . . . 
+                        . . . . . . . . . . . . . . . . 
+                        . . . . . . f f f f . . . . . . 
+                        . . . . . f 1 1 1 1 f . . . . . 
+                        . . . . f 1 1 1 1 1 1 f . . . . 
+                        . . . f 3 3 3 3 3 1 1 1 f . . . 
+                        . . . f 3 f 3 3 3 1 1 1 f . . . 
+                        . . . f 3 f 3 3 3 1 1 1 f . . . 
+                        . . . f 3 3 3 3 3 1 1 1 f . . . 
+                        . . . . f 1 1 1 1 1 1 f . . . . 
+                        . . . . . f 1 1 1 1 f . . . . . 
+                        . . . . . . f f f f . . . . . . 
+                        . . . . . . . . . . . . . . . . 
+                        . . . . . . f f f f . . . . . . 
+                        . . . . . f 3 3 3 3 f . . . . . 
+                        . . . . . f f f f f f . . . . . 
+                        `)
+                    Player_2.vx = -100
+                } else {
+                    Player_2.setImage(img`
+                        . . . . . . . . . . . . . . . . 
+                        . . . . . . . . . . . . . . . . 
+                        . . . . . . f f f f . . . . . . 
+                        . . . . . f 1 1 1 1 f . . . . . 
+                        . . . . f 1 1 1 1 1 1 f . . . . 
+                        . . . f 1 1 1 3 3 3 3 3 f . . . 
+                        . . . f 1 1 1 3 3 3 f 3 f . . . 
+                        . . . f 1 1 1 3 3 3 f 3 f . . . 
+                        . . . f 1 1 1 3 3 3 3 3 f . . . 
+                        . . . . f 1 1 1 1 1 1 f . . . . 
+                        . . . . . f 1 1 1 1 f . . . . . 
+                        . . . . . . f f f f . . . . . . 
+                        . . . . . . . . . . . . . . . . 
+                        . . . . . . f f f f . . . . . . 
+                        . . . . . f 3 3 3 3 f . . . . . 
+                        . . . . . f f f f f f . . . . . 
+                        `)
+                    Player_2.vx = 100
+                }
+            }
+        } else {
+            Player_2.vx = 0
+        }
+        if (convertToText(mySprite.y - Player_2.y + 50).includes("-")) {
+            Player_2.vy = -200
+        }
+        pause(100)
+        while (convertToText(mySprite.y - Player_2.y + 50).includes("-")) {
+            pause(1)
+        }
+        if (mySprite.x - Player_2.x >= 60 || mySprite.x - Player_2.x <= -60) {
+            Player_2.setPosition(mySprite.x, mySprite.y - 30)
+        }
+    }
+})
+forever(function () {
+    if (mySprite.tileKindAt(TileDirection.Right, assets.tile`myTile1`)) {
+        merge = 0
+        mySprite.vx = -50
+        mySprite.vx = -50
+        scene.cameraShake(40, 200)
+        mySprite.setImage(img`
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . f f f f . . . . . . 
+            . . . . . f 1 1 1 1 f . . . . . 
+            . . . . f 1 1 9 9 9 9 f . . . . 
+            . . . f 9 9 9 9 9 f 9 9 f . . . 
+            . . . f 9 f 9 9 9 f 9 9 f . . . 
+            . . . f 9 9 f 9 9 9 9 9 f . . . 
+            . . . f 9 9 9 9 1 1 1 1 f . . . 
+            . . . . f 1 1 1 1 1 1 f . . f . 
+            . f . . . f 1 1 1 1 f . . f 9 f 
+            f 9 f . . . f f f f . . f 9 f f 
+            . f 9 f . . . . . . . f 9 f . . 
+            . . f f . . . . . . . . f . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            `)
+        music.playTone(175, music.beat(BeatFraction.Half))
+        controller.vibrate(500)
+        while (!(mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile6`))) {
+            mySprite.vx = -200
+            animation.stopAnimation(animation.AnimationTypes.All, mySprite)
+            mySprite.setImage(img`
+                . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . 
+                . . . . . . f f f f . . . . . . 
+                . . . . . f 1 1 1 1 f . . . . . 
+                . . . . f 1 1 9 9 9 9 f . . . . 
+                . . . f 9 9 9 9 9 f 9 9 f . . . 
+                . . . f 9 f 9 9 9 f 9 9 f . . . 
+                . . . f 9 9 f 9 9 9 9 9 f . . . 
+                . . . f 9 9 9 9 1 1 1 1 f . . . 
+                . . . . f 1 1 1 1 1 1 f . . f . 
+                . f . . . f 1 1 1 1 f . . f 9 f 
+                f 9 f . . . f f f f . . f 9 f f 
+                . f 9 f . . . . . . . f 9 f . . 
+                . . f f . . . . . . . . f . . . 
+                . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . 
+                `)
+            pause(1)
+        }
+        mySprite.setImage(img`
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . f f f f . . . . . . . . . 
+            . . f 9 9 9 9 f . . . . . . . . 
+            . f 1 9 9 f 9 1 f . . . . . . . 
+            f 1 1 9 f 9 9 1 1 f . . . f f f 
+            f 1 1 9 9 9 9 1 1 f . . f 9 9 f 
+            f 1 1 9 9 9 9 1 1 f . f 9 9 f . 
+            f 1 1 1 1 1 1 1 1 f . f 9 f . . 
+            . f f f f f f f f . . f f . . . 
+            `)
+        scene.cameraShake(8, 200)
+        music.playTone(147, music.beat(BeatFraction.Quarter))
+        controller.vibrate(500)
+        mySprite.vx = 0
+        while (!(controller.A.isPressed() || controller.right.isPressed() || controller.left.isPressed() || controller.up.isPressed())) {
+            pause(1)
+        }
+        mySprite.setImage(img`
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . f f f f . . . . . . 
+            . . . . . f 1 1 1 1 f . . . . . 
+            . . . . f 1 1 1 1 1 1 f . . . . 
+            . . . f 1 1 9 9 9 9 9 9 f . . . 
+            . . . f 1 1 9 9 9 f 9 f f . . . 
+            . . . f 1 1 9 9 9 f 9 f f . . . 
+            . . . f 1 1 9 9 9 9 9 9 f . . . 
+            . . . . f 1 1 1 1 1 1 f . . . . 
+            . . . . . f 1 1 1 1 f . . . . . 
+            . f f . . . f f f f . . . f f . 
+            f 9 9 f . . . . . . . . f 9 9 f 
+            . f 9 9 f . . . . . . f 9 9 f . 
+            . . f 9 f . . . . . . f 9 f . . 
+            . . . f . . . . . . . . f . . . 
+            `)
+        if (controller.right.isPressed() || controller.left.isPressed()) {
+            mySprite.vy = -70
+        }
+        music.playTone(220, music.beat(BeatFraction.Half))
+    }
+    if (mySprite.tileKindAt(TileDirection.Left, assets.tile`myTile1`)) {
+        merge = 0
+        mySprite.vx = -50
+        mySprite.vx = 50
+        scene.cameraShake(40, 200)
+        mySprite.setImage(img`
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . f f f f . . . . . . 
+            . . . . . f 1 1 1 1 f . . . . . 
+            . . . . f 9 9 9 9 1 1 f . . . . 
+            . . . f 9 9 f 9 9 9 9 9 f . . . 
+            . . . f 9 9 f 9 9 9 f 9 f . . . 
+            . . . f 9 9 9 9 9 f 9 9 f . . . 
+            . . . f 1 1 1 1 9 9 9 9 f . . . 
+            . f . . f 1 1 1 1 1 1 f . . . . 
+            f 9 f . . f 1 1 1 1 f . . . f . 
+            f f 9 f . . f f f f . . . f 9 f 
+            . . f 9 f . . . . . . . f 9 f . 
+            . . . f . . . . . . . . f f . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            `)
+        music.playTone(175, music.beat(BeatFraction.Half))
+        while (!(mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile6`))) {
+            mySprite.vx = -200
+            animation.stopAnimation(animation.AnimationTypes.All, mySprite)
+            mySprite.setImage(img`
+                . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . 
+                . . . . . . f f f f . . . . . . 
+                . . . . . f 1 1 1 1 f . . . . . 
+                . . . . f 9 9 9 9 1 1 f . . . . 
+                . . . f 9 9 f 9 9 9 9 9 f . . . 
+                . . . f 9 9 f 9 9 9 f 9 f . . . 
+                . . . f 9 9 9 9 9 f 9 9 f . . . 
+                . . . f 1 1 1 1 9 9 9 9 f . . . 
+                . f . . f 1 1 1 1 1 1 f . . . . 
+                f 9 f . . f 1 1 1 1 f . . . f . 
+                f f 9 f . . f f f f . . . f 9 f 
+                . . f 9 f . . . . . . . f 9 f . 
+                . . . f . . . . . . . . f f . . 
+                . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . 
+                `)
+            pause(1)
+        }
+        mySprite.setImage(img`
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . f f f f . . . 
+            . . . . . . . . f 9 9 9 9 f . . 
+            . . . . . . . f 1 9 f 9 9 1 f . 
+            f f f . . . f 1 1 9 9 f 9 1 1 f 
+            f 9 9 f . . f 1 1 9 9 9 9 1 1 f 
+            . f 9 9 f . f 1 1 9 9 9 9 1 1 f 
+            . . f 9 f . f 1 1 1 1 1 1 1 1 f 
+            . . . f f . . f f f f f f f f . 
+            `)
+        scene.cameraShake(8, 200)
+        music.playTone(147, music.beat(BeatFraction.Quarter))
+        mySprite.vx = 0
+        while (!(controller.A.isPressed() || controller.right.isPressed() || controller.left.isPressed() || controller.up.isPressed())) {
+            pause(1)
+        }
+        mySprite.setImage(img`
+            . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . 
+            . . . . . . f f f f . . . . . . 
+            . . . . . f 1 1 1 1 f . . . . . 
+            . . . . f 1 1 1 1 1 1 f . . . . 
+            . . . f 9 9 9 9 9 9 1 1 f . . . 
+            . . . f f 9 f 9 9 9 1 1 f . . . 
+            . . . f f 9 f 9 9 9 1 1 f . . . 
+            . . . f 9 9 9 9 9 9 1 1 f . . . 
+            . . . . f 1 1 1 1 1 1 f . . . . 
+            . . . . . f 1 1 1 1 f . . . . . 
+            . f f . . . f f f f . . . f f . 
+            f 9 9 f . . . . . . . . f 9 9 f 
+            . f 9 9 f . . . . . . f 9 9 f . 
+            . . f 9 f . . . . . . f 9 f . . 
+            . . . f . . . . . . . . f . . . 
+            `)
+        if (controller.right.isPressed() || controller.left.isPressed()) {
+            mySprite.vy = -70
+        }
+        music.playTone(220, music.beat(BeatFraction.Half))
+    }
+})
+forever(function () {
+    if (mySprite.overlapsWith(mySprite4)) {
+        if (0 < mySprite.vy) {
+            mySprite4.y += -16
+            mySprite.setFlag(SpriteFlag.Invisible, true)
+            mySprite4.vx = 50
+            if (merge == 0) {
+                mySprite4.setImage(img`
+                    ................................
+                    ................................
+                    ................................
+                    ................................
+                    ................................
+                    ................................
+                    ................................
+                    ................................
+                    ..............ffff..............
+                    .............f1111f.............
+                    ............f111111f............
+                    ...........f11199999f...........
+                    ...........f111999f9f...........
+                    ...........f111999f9f...........
+                    ...........f11199999f...........
+                    ............f111111f............
+                    .............f1111f.............
+                    ..............ffff..............
+                    ................................
+                    ..............ffff..............
+                    .............f9999f.............
+                    .ffffffffffffffffffffffffffffff.
+                    .f4554445555444444445555444554f.
+                    .f4554445555444444445555444554f.
+                    .f4554445555444444445555444554f.
+                    ..f45544455544444444555444554f..
+                    ..f45554445554444445554445554f..
+                    ...f444544455444444554445444f...
+                    ....fff454455444444554454fff....
+                    .......ffffffffffffffffff.......
+                    ................................
+                    ................................
+                    `)
+            } else {
+                mySprite4.setImage(img`
+                    ................................
+                    ................................
+                    .............ffffff.............
+                    ...........ff111111ff...........
+                    ..........f1111111111f..........
+                    ........ff111111111111ff........
+                    ........f11111111111111f........
+                    .......f1111111111111111f.......
+                    ......f111111111111111111f......
+                    ......f111111111aaaaaaaaaf......
+                    .....f111111111aaaaaaaaaaaf.....
+                    .....f111111111aaaaaaaffaaf.....
+                    .....f111111111aaaaaaa1faaf.....
+                    .....f111111111aaaaaaaffaaf.....
+                    .....f111111111aaaaaaaffaaf.....
+                    .....f111111111aaaaaaaffaaf.....
+                    ......f11111111aaaaaaaaaaf......
+                    ......f111111111aaaaaaaaaf......
+                    .......f1111111111111111f.......
+                    ........f11111111111111f........
+                    ........ff111111111111ff........
+                    ..........f1111111111f..........
+                    ...........ff111111ff...........
+                    .............ffffff.............
+                    ................................
+                    ................................
+                    ............ffffffff............
+                    ...........faaaaaaaaf...........
+                    ...........faaaaaaaaf...........
+                    .ffffffffffffffffffffffffffffff.
+                    .f4554445555444444445555444554f.
+                    .f4554445555444444445555444554f.
+                    .f4554445555444444445555444554f.
+                    ..f45544455544444444555444554f..
+                    ..f45554445554444445554445554f..
+                    ...f444544455444444554445444f...
+                    ....fff454455444444554454fff....
+                    .......ffffffffffffffffff.......
+                    ................................
+                    ................................
+                    `)
+            }
+            while (!(mySprite4.tileKindAt(TileDirection.Right, assets.tile`myTile24`))) {
+                mySprite.vy = 0
+                mySprite.setPosition(mySprite4.x, mySprite4.y)
+                pause(1)
+            }
+            mySprite4.y += 16
+            mySprite4.setImage(img`
+                ................................
+                ................................
+                ................................
+                ................................
+                ................................
+                .ffffffffffffffffffffffffffffff.
+                .f4554445555444444445555444554f.
+                .f4554445555444444445555444554f.
+                .f4554445555444444445555444554f.
+                ..f45544455544444444555444554f..
+                ..f45554445554444445554445554f..
+                ...f444544455444444554445444f...
+                ....fff454455444444554454fff....
+                .......ffffffffffffffffff.......
+                ................................
+                ................................
+                `)
+            mySprite.setImage(img`
+                . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . 
+                . . . . . . f f f f . . . . . . 
+                . . . . . f 1 1 1 1 f . . . . . 
+                . . . . f 1 1 1 1 1 1 f . . . . 
+                . . . f 1 1 9 9 9 9 9 9 f . . . 
+                . . . f 1 1 9 9 9 f 9 f f . . . 
+                . . . f 1 1 9 9 9 f 9 f f . . . 
+                . . . f 1 1 9 9 9 9 9 9 f . . . 
+                . . . . f 1 1 1 1 1 1 f . . . . 
+                . . . . . f 1 1 1 1 f . . . . . 
+                . f f . . . f f f f . . . f f . 
+                f 9 9 f . . . . . . . . f 9 9 f 
+                . f 9 9 f . . . . . . f 9 9 f . 
+                . . f 9 f . . . . . . f 9 f . . 
+                . . . f . . . . . . . . f . . . 
+                `)
+            mySprite.vy += -25
+            mySprite.setFlag(SpriteFlag.Invisible, false)
+            pause(2000)
+            mySprite4.vx = 0
+            tiles.placeOnRandomTile(mySprite4, assets.tile`myTile20`)
+        } else {
+            mySprite.vy = -80
+        }
+    }
+})
+forever(function () {
+    if (Player_2.isHittingTile(CollisionDirection.Left) || Player_2.isHittingTile(CollisionDirection.Right)) {
+        Player_2.vy = -250
+        while (Player_2.isHittingTile(CollisionDirection.Left) || Player_2.isHittingTile(CollisionDirection.Right)) {
+            pause(1)
+        }
+    }
+})
+forever(function () {
+    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile7`)) {
+        pause(100)
+        tiles.setTilemap(tilemap`level4`)
+        Boss = 1
+        music2 = 2
+        Boss_HP = 2
+        music.stopAllSounds()
+        Player_2.setPosition(mySprite.x, mySprite.y)
+        mySprite2 = sprites.create(img`
+            ........fffffffffffff...........
+            .......f7777777777777fffff......
+            ......f777777777777777777ff.....
+            .....f77777777777777777777f.....
+            .....f77777777777777777777f.....
+            ....f77777777777777f177777f.....
+            ....f77777777777777ff77777f.....
+            ...f7777777777777777777777f.....
+            ...f7777777777777777777777f.....
+            ...f7777f17777777777777777f.....
+            ...f7777ff7777777777777777f.....
+            ...f7777777777777777777777f.....
+            ...f777777777777777777777ff.....
+            ...f77777777777777777777ff......
+            ...ff777777777777777777ff.......
+            ....ffffffffffffffffffff........
+            `, SpriteKind.Enemy)
+        mySprite2.setBounceOnWall(true)
+        tiles.placeOnRandomTile(mySprite2, assets.tile`myTile`)
+        mySprite2.vx += 100
+    }
+    if (!(Boss_HP == 0) && Boss == 1 && mySprite2.isHittingTile(CollisionDirection.Bottom)) {
+        mySprite2.vy = -200
+    }
+    if (!(Boss_HP == 0) && Boss == 1) {
+        mySprite2.vy += 5
+    }
+})
+forever(function () {
+	
+})
+forever(function () {
+    if (merge == 1) {
+        Player_2.setFlag(SpriteFlag.Invisible, true)
+    } else {
+        Player_2.setFlag(SpriteFlag.Invisible, false)
+    }
+})
 forever(function () {
     if (Boss == 1) {
         if (mySprite.overlapsWith(mySprite2)) {
@@ -3040,726 +3663,5 @@ forever(function () {
             . . . . . . . . . . . . . . . . 
             . . . . . . . . . . . . . . . . 
             `)
-    }
-})
-forever(function () {
-    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile32`)) {
-        pause(100)
-        tiles.setTilemap(tilemap`level15`)
-        Boss = 1
-        music2 = 2
-        Boss_HP = 10
-        music.stopAllSounds()
-        Player_2.setPosition(mySprite.x, mySprite.y)
-        Petscii_Smiler = sprites.create(img`
-            ........ffffffff........................ffffffff........
-            .......ffffffffff......................ffffffffff.......
-            ......ffffffffffff....................ffffffffffff......
-            .....ffffffffffffff..................ffffffffffffff.....
-            ....ffffffffffffffff................ffffffffffffffff....
-            ...ffffffffffffffffff..............ffffffffffffffffff...
-            ..ffffffffffffffffffff............ffffffffffffffffffff..
-            .ffffffffffffffffffffff..........ffffffffffffffffffffff.
-            ffffffffffff1111ffffffff........ffffffffffff1111ffffffff
-            ffffffffffff1111ffffffff........ffffffffffff1111ffffffff
-            ffffffffffff1111ffffffff........ffffffffffff1111ffffffff
-            ffffffffffff1111ffffffff........ffffffffffff1111ffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            ffffffffffffffffffffffff........ffffffffffffffffffffffff
-            .ffffffffffffffffffffff..........ffffffffffffffffffffff.
-            ..ffffffffffffffffffff............ffffffffffffffffffff..
-            ...ffffffffffffffffff..............ffffffffffffffffff...
-            ....ffffffffffffffff................ffffffffffffffff....
-            .....ffffffffffffff..................ffffffffffffff.....
-            ......ffffffffffff....................ffffffffffff......
-            .......ffffffffff......................ffffffffff.......
-            ........ffffffff........................ffffffff........
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ........................................................
-            ffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-            ffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-            ff1111111111111111111111111111111111111111111111111111ff
-            fff11111111111111111111111111111111111111111111111111fff
-            .fff111111111111111111111111111111111111111111111111fff.
-            ..fff1111111111111111111111111111111111111111111111fff..
-            ...fff11111111111111111111111111111111111111111111fff...
-            ....fff111111111111111111111111111111111111111111fff....
-            .....ffffffffffffffffffffffffffffffffffffffffffffff.....
-            ......ffffffffffffffffffffffffffffffffffffffffffff......
-            ........ff111111111111111111111111111111111111ff........
-            ........fff1111111111111111111111111111111111fff........
-            .........fff11111111111111111111111111111111fff.........
-            ..........fff111111111111111111111111111111fff..........
-            ...........fff1111111111111111111111111111fff...........
-            ............fff11111111111111111111111111fff............
-            .............ffffffffffffffffffffffffffffff.............
-            ..............ffffffffffffffffffffffffffff..............
-            `, SpriteKind.Player)
-        Petscii_Smiler.setBounceOnWall(true)
-        tiles.placeOnRandomTile(Petscii_Smiler, assets.tile`myTile`)
-        Petscii_Smiler.vx += 50
-    }
-})
-forever(function () {
-    if (merge == 1 && mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile31`)) {
-        tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16) - 1, Math.round(mySprite.y / 16) + 1), assets.tile`transparency16`)
-        tiles.setWallAt(tiles.getTileLocation(Math.round(mySprite.x / 16) - 1, Math.round(mySprite.y / 16) + 1), false)
-        tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16) - 2, Math.round(mySprite.y / 16) + 1), assets.tile`transparency16`)
-        tiles.setWallAt(tiles.getTileLocation(Math.round(mySprite.x / 16) - 2, Math.round(mySprite.y / 16) + 1), false)
-        tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) + 1), assets.tile`transparency16`)
-        tiles.setWallAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) + 1), false)
-        scene.cameraShake(8, 500)
-    }
-})
-forever(function () {
-    for (let value of tiles.getTilesByType(assets.tile`myTile3`)) {
-        tiles.setTileAt(value, assets.tile`myTile5`)
-    }
-    for (let value2 of tiles.getTilesByType(assets.tile`myTile4`)) {
-        tiles.setTileAt(value2, assets.tile`myTile3`)
-    }
-    for (let value3 of tiles.getTilesByType(assets.tile`myTile5`)) {
-        tiles.setTileAt(value3, assets.tile`myTile4`)
-    }
-    pause(200)
-})
-forever(function () {
-    if (music2 == 1) {
-        music.playMelody(music.convertRTTTLToMelody("level:d=4,o=5,b=150:2c,d,8e,g,8e,8c,8a4,8c,8d,8c,8a4,2c,d,8e,g,8e,8c,8a4,8c,8d,8c,8a4,2c,d,e,g,32e,32c,32e,32c,32e,32c,32e,32c,32d,32a4,32d,32a4,32d,32a4,32d,32a4,c,32c,32a4,32c,32a4,32c,32a4,32c,32a4,d,c,32d,32e,32d,32e,32d,32e,32d,32e,g,e,16g,16e,16d,16e,16d,16c,16a4,16c"), 300)
-    } else if (music2 == 2) {
-        music.playMelody(music.convertRTTTLToMelody("Boss (6):d=4,o=5,b=300:8e4,8g4,8a4,8g4,8a4,8c,8a4,8g4,8e4,8g4,8e4,8g4,8a4,8c,8a4,8c,8a4,8g4,8e4,8g4,8e4,16d4,16e4,16g4,16e4,16d4,16e4,16g4,16a4,64c,64d,64e,64g,64a,64c6,64d6,64e6,16g6,16e6,16d6,16c6,16a,16g,16a,16g,16e,16d,16c,16a4,64g4,64a4,64c,64d,64e,64g,64a,64c6,64d6,64e6,64g6,64a6,64a6,64g6,64e6,64d6,64c6,64a,64g,64e,64d,64c,64a4,64g4,2e4,8d4,8c4,8d4,8e4,8g4,8e4,8g4,8a4,8g4,8e4,8g4,8d4,8c4,8d4,8c4,16d4,16e4,16g4,16e4,16g4,64a4,64c,64d,64e,64g,64a,64c6,64d6,16e6,16d6,16a,16e,16a4,16g4,16e4,16g4,16e4,32g4,32e4,32g4,32e4,32g4,32e4,32g4,32e4"), 600)
-    } else if (music2 == 3) {
-        music.playMelody(music.convertRTTTLToMelody("Welcome to the Band!:d=4,o=5,b=300:16c,16a4,8c,8g4,8d4,8g4,8e4,8g4,8c4,8c,8g4,8a4,8e4,8d4,8g4,8a4,8c,8c,8g4,8a4,8e4,8c4,8g4,8e4,8c4,8e4,8c4,8e4,8g4,8c,8e4,8g4,8e4,8a4,8g4,8e4,8d4,8e4,8g4,8e4,8d4,64e4,64g4,64a4,64c,64d,64e,64g,64a,16c6,16a,16g,16a,16g,16e,16d,16c,16d,16c,16a4,16e,16g,16a"), 600)
-    } else if (music2 == 4) {
-        music.playMelody(music.convertRTTTLToMelody("Victory:d=4,o=5,b=300:g4,e4,d,g4,d,2d6"), 600)
-        music2 = 5
-    } else if (music2 == 5) {
-        // Brb gotta watch some anime
-        Find_nearest_Checkpoint_Flag("This function doesn't even work anymore")
-    } else if (music2 == 6) {
-        music.playMelody(music.convertRTTTLToMelody("Victory:d=4,o=5,b=300:g4,e4,d,g4,d,2d6"), 600)
-        pause(200)
-        music.playMelody(music.convertRTTTLToMelody("Phase 2 Tr:d=4,o=5,b=300:2p.,2c4,d4,8e4,16g4,32a4,32c,64d,64e,64g,64a,64c6,64d6,64g6,64a6,a.6,a6,e6,g6,a,d6,g,c6,d,g4,c,a4,e4,g4,e4,8g4,8c,8a4,8g4,8e4,8d4,8g4,8c,8a4,16d,32d,32e,64a4,64g,64a,64g,16a4,16e4,16g4,16e4,16g4,16e4,16g4,16e4,16g4,8c,8a4,16d,32d,32e,64a4,64g,64a,64g,16a4,8e4"), 600)
-        music2 += 1
-    } else if (music2 == 7) {
-        music.playMelody(music.convertRTTTLToMelody("Boss2:d=4,o=5,b=300:8e4,8d4,8g4,8c,8a4,16d,32d,32e,64a4,64g,64a,64g,16a4,8e4,16g4,16e4,8d4,8g4,8c,8a4,16d,32d,32e,64a4,64g,64a,64g,16a4,8e4,8a4,8p,8a4,8p,8a4,8g.4,16e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,8a4,8p,8a4,8p,8a4,8e4,8g4,8a4,8e4,8d4,g4,8e,8a4,c,8a4,8p,8a4,8p,8a4,8g.4,16e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,8a4,8p,8a4,8p,8a4,8e4,8g4,8a4,8e4,8d4,g4,8e,8a4,c,8a4,8p,8a4,8p,8a4,8g.4,16e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,8a4,8p,8a4,8p,8a4,8e4,8g4,8a4,8e4,8d4,g4,8e,8a4,c,8a4,8p,8a4,8p,8a4,8g.4,16e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,16a4,16d,16c,16a4,8e4,8a4,8p,8a4,8p,8a4,8e4,8g4,8a4,8e4,8d4,g4,8e,8a4,c,d,g4,16c,16d,16e,16g,c,e,8c6,8e6,d6,16c6,16a,16d6,16c6,a,16d,16e,16c,16d,a4,16d,16c,16e,16d,2e,16d,16c,16a4,16c,16a4,16g4,16a4,16g4"), 600)
-    } else if (music2 == 8) {
-        music.playMelody(music.convertRTTTLToMelody("Final Boss:d=4,o=5,b=150:2e4,2d4,2c4,2d4,2e4,2d4,2c4,2d4,32e4,32g,32e4,32g,32e4,32a,32e4,32a,32e4,32c6,32e4,32c6,32e4,32e,32e4,32e,2d4,32c4,32d,32c4,32d,32c4,32e,32c4,32e,32c4,32d,32c4,32d,32c4,32e,32c4,32e,2d4,32e4,32g,32e4,32g,32e4,32d,32e4,32d,32e4,32e,32e4,32e,32e4,32c,32e4,32c,2d4,32c4,32d,32c4,32d,32c4,32g,32c4,32g,32c4,32e,32c4,32e,32c4,32g,32c4,32g,2d4,2e4,2d4,2c4,2d4,2e4,2d4,2c4,2d4,32e4,32g,32e4,32g,32e4,32a,32e4,32a,32e4,32c6,32e4,32c6,32e4,32e,32e4,32e,2d4,32c4,32d,32c4,32d,32c4,32e,32c4,32e,32c4,32d,32c4,32d,32c4,32e,32c4,32e,2d4,32e4,32g,32e4,32g,32e4,32d,32e4,32d,32e4,32e,32e4,32e,32e4,32c,32e4,32c,2d4,32c4,32d,32c4,32d,32c4,32g,32c4,32g,32c4,32e,32c4,32e,32c4,32g,32c4,32g,2d4,2e4,2d4,2e4,2d,32e,32c6,32e,32d6,32e,32e6,32e,32g6,32e,32e6,32e,32g6,32e,32e6,32e,32c6,2a4,32c,32e,32c,32g,32c,32c6,32c,32a,32c,32c6,32c,32e,32c,32g,32c,32e,32g4,32d,32g4,32e,32g4,32d,32g4,32g,64g4,64e,64c6,64e6,32g4,32g,32g4,32e,32g4,32d,64c7,64a6,64g6,64e6,64d6,64c6,64a,64g,64c7,64a6,64g6,64e6,64d6,64c6,64a,64g,64c7,64a6,64g6,64e6,64d6,64c6,64a,64g,64a6,64g6,64e6,64d6,64c6,64a,64g,64e,64a6,64g6,64e6,64d6,64c6,64a,64g,64e,64a6,64g6,64e6,64d6,64c6,64a,64g,64e,64g6,64e6,64d6,64c6,64a,64g,64e,64d,64g6,64e6,64d6,64c6,64a,64g,64e,64d,64g6,64e6,64d6,64c6,64a,64g,64e,64d,d.,a4,d4,2e4,32d4,32e,32d4,32e,32d4,32e,32d4,32e,32a,32d4,32a,32d4,32a,32d4,32a,32d4,8c4,32c4,32e,32c4,32e,32c4,32g,32c4,32g,32c4,32c6,32c4,32c6,32d4,32g,32d4,32e,32d4,32a,32d4,32g,32d4,32c6,32d4,32a,32d4,32d6,32d4,32e6,32e4,32g6,32e4,32g6,32e4,32g6,32e4,32g6,32e4,32c6,32e4,32c6,32e4,32a,32e4,32a,32e,32d4,32e,32d4,32g,32d4,32g,32d4,32a4,32d4,32a4,32d4,32g,32d4,32g,32d4,32e,32c4,32e,32c4,32a,32c4,32a,32c4,32g,32c4,32g,32c4,32c6,32c4,32c6,32c4,32g,32d4,32g,32d4,32e,32d4,32e,32d4,32c,32d4,32c,32d4,32c,32d4,32c,32d4"), 300)
-    }
-})
-forever(function () {
-    a += 1
-})
-forever(function () {
-	
-})
-forever(function () {
-    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile18`)) {
-        if (tiles.tileAtLocationEquals(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 1 + merge), assets.tile`myTile18`)) {
-            for (let value4 of tiles.getTilesByType(assets.tile`myTile`)) {
-                tiles.setTileAt(value4, assets.tile`transparency16`)
-            }
-            tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 1 + merge), assets.tile`myTile22`)
-            tiles.setTileAt(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 2 + merge), assets.tile`myTile`)
-            music.playTone(262, music.beat(BeatFraction.Sixteenth))
-            music.playTone(330, music.beat(BeatFraction.Sixteenth))
-            music.playTone(392, music.beat(BeatFraction.Sixteenth))
-            music.playTone(294, music.beat(BeatFraction.Sixteenth))
-            music.playTone(349, music.beat(BeatFraction.Sixteenth))
-            music.playTone(440, music.beat(BeatFraction.Sixteenth))
-            music.playTone(330, music.beat(BeatFraction.Sixteenth))
-            music.playTone(392, music.beat(BeatFraction.Sixteenth))
-            music.playTone(494, music.beat(BeatFraction.Quarter))
-        }
-    }
-})
-forever(function () {
-    if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile0`)) {
-        tiles.placeOnRandomTile(mySprite, assets.tile`myTile`)
-        if (merge == 0) {
-            info.changeLifeBy(-1)
-        } else {
-            merge = 0
-        }
-        animation.stopAnimation(animation.AnimationTypes.All, mySprite)
-        animation.runImageAnimation(
-        mySprite,
-        [img`
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . f f f f . . . . . . 
-            . . . . . f 1 1 1 1 f . . . . . 
-            . . . . f 1 1 1 1 1 1 f . . . . 
-            . . . f 9 9 9 9 9 1 1 1 f . . . 
-            . . . f 9 f 9 9 9 1 1 1 f . . . 
-            . . . f 9 f 9 9 9 1 1 1 f . . . 
-            . . . f 9 9 9 9 9 1 1 1 f . . . 
-            . . . . f 1 1 1 1 1 1 f . . . . 
-            . . . . . f 1 1 1 1 f . . . . . 
-            . . . . . . f f f f . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . f f f f . . . . . . 
-            . . . . . f 9 9 9 9 f . . . . . 
-            . . . . . f f f f f f . . . . . 
-            `],
-        200,
-        true
-        )
-    }
-    if (Player_2.tileKindAt(TileDirection.Bottom, assets.tile`myTile0`)) {
-        tiles.placeOnRandomTile(Player_2, assets.tile`myTile`)
-    }
-    if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile2`)) {
-        mySprite.vy = -200
-        mySprite.vx = 400
-    }
-    if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile10`)) {
-        mySprite.vy = -200
-        mySprite.vx = -400
-    }
-    if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile8`)) {
-        mySprite.vy = -400
-    }
-    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile9`)) {
-        mySprite.vy = -80
-    }
-    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile11`)) {
-        mySprite.vy = -160
-    }
-    if (mySprite.tileKindAt(TileDirection.Left, assets.tile`myTile13`)) {
-        mySprite.vx = -50
-    }
-    if (mySprite.tileKindAt(TileDirection.Right, assets.tile`myTile12`)) {
-        mySprite.vx = 50
-    }
-    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile14`)) {
-        mySprite.vx = 0
-    }
-    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile13`)) {
-        mySprite.vx = -50
-    }
-    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile12`)) {
-        mySprite.vx = 50
-    }
-    if (mySprite.tileKindAt(TileDirection.Bottom, assets.tile`myTile23`)) {
-        tiles.placeOnRandomTile(mySprite, assets.tile`myTile`)
-        if (merge == 0) {
-            info.changeLifeBy(-1)
-        } else {
-            merge = 0
-        }
-        animation.stopAnimation(animation.AnimationTypes.All, mySprite)
-        animation.runImageAnimation(
-        mySprite,
-        [img`
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . f f f f . . . . . . 
-            . . . . . f 1 1 1 1 f . . . . . 
-            . . . . f 1 1 1 1 1 1 f . . . . 
-            . . . f 9 9 9 9 9 1 1 1 f . . . 
-            . . . f 9 f 9 9 9 1 1 1 f . . . 
-            . . . f 9 f 9 9 9 1 1 1 f . . . 
-            . . . f 9 9 9 9 9 1 1 1 f . . . 
-            . . . . f 1 1 1 1 1 1 f . . . . 
-            . . . . . f 1 1 1 1 f . . . . . 
-            . . . . . . f f f f . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . f f f f . . . . . . 
-            . . . . . f 9 9 9 9 f . . . . . 
-            . . . . . f f f f f f . . . . . 
-            `],
-        200,
-        true
-        )
-        mySprite.vy = -20
-    }
-    if (Player_2.tileKindAt(TileDirection.Bottom, assets.tile`myTile23`)) {
-        tiles.placeOnRandomTile(Player_2, assets.tile`myTile`)
-    }
-    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile28`)) {
-        mySprite.fy = 50
-    }
-})
-forever(function () {
-    if (cutscene == 0) {
-        mySprite.vy += 5
-        Player_2.vy += 5
-    }
-})
-forever(function () {
-    for (let index = 0; index < 5; index++) {
-        if (mySprite.x - Player_2.x >= 40 || mySprite.x - Player_2.x <= -40) {
-            for (let index = 0; index < 4; index++) {
-                if (convertToText(mySprite.x - Player_2.x).includes("-")) {
-                    Player_2.setImage(img`
-                        . . . . . . . . . . . . . . . . 
-                        . . . . . . . . . . . . . . . . 
-                        . . . . . . f f f f . . . . . . 
-                        . . . . . f 1 1 1 1 f . . . . . 
-                        . . . . f 1 1 1 1 1 1 f . . . . 
-                        . . . f 3 3 3 3 3 1 1 1 f . . . 
-                        . . . f 3 f 3 3 3 1 1 1 f . . . 
-                        . . . f 3 f 3 3 3 1 1 1 f . . . 
-                        . . . f 3 3 3 3 3 1 1 1 f . . . 
-                        . . . . f 1 1 1 1 1 1 f . . . . 
-                        . . . . . f 1 1 1 1 f . . . . . 
-                        . . . . . . f f f f . . . . . . 
-                        . . . . . . . . . . . . . . . . 
-                        . . . . . . f f f f . . . . . . 
-                        . . . . . f 3 3 3 3 f . . . . . 
-                        . . . . . f f f f f f . . . . . 
-                        `)
-                    Player_2.vx = -100
-                } else {
-                    Player_2.setImage(img`
-                        . . . . . . . . . . . . . . . . 
-                        . . . . . . . . . . . . . . . . 
-                        . . . . . . f f f f . . . . . . 
-                        . . . . . f 1 1 1 1 f . . . . . 
-                        . . . . f 1 1 1 1 1 1 f . . . . 
-                        . . . f 1 1 1 3 3 3 3 3 f . . . 
-                        . . . f 1 1 1 3 3 3 f 3 f . . . 
-                        . . . f 1 1 1 3 3 3 f 3 f . . . 
-                        . . . f 1 1 1 3 3 3 3 3 f . . . 
-                        . . . . f 1 1 1 1 1 1 f . . . . 
-                        . . . . . f 1 1 1 1 f . . . . . 
-                        . . . . . . f f f f . . . . . . 
-                        . . . . . . . . . . . . . . . . 
-                        . . . . . . f f f f . . . . . . 
-                        . . . . . f 3 3 3 3 f . . . . . 
-                        . . . . . f f f f f f . . . . . 
-                        `)
-                    Player_2.vx = 100
-                }
-            }
-        } else {
-            Player_2.vx = 0
-        }
-        if (convertToText(mySprite.y - Player_2.y + 50).includes("-")) {
-            Player_2.vy = -200
-        }
-        pause(100)
-        while (convertToText(mySprite.y - Player_2.y + 50).includes("-")) {
-            pause(1)
-        }
-        if (mySprite.x - Player_2.x >= 60 || mySprite.x - Player_2.x <= -60) {
-            Player_2.setPosition(mySprite.x, mySprite.y - 30)
-        }
-    }
-})
-forever(function () {
-    if (mySprite.tileKindAt(TileDirection.Right, assets.tile`myTile1`)) {
-        merge = 0
-        mySprite.vx = -50
-        mySprite.vx = -50
-        scene.cameraShake(40, 200)
-        mySprite.setImage(img`
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . f f f f . . . . . . 
-            . . . . . f 1 1 1 1 f . . . . . 
-            . . . . f 1 1 9 9 9 9 f . . . . 
-            . . . f 9 9 9 9 9 f 9 9 f . . . 
-            . . . f 9 f 9 9 9 f 9 9 f . . . 
-            . . . f 9 9 f 9 9 9 9 9 f . . . 
-            . . . f 9 9 9 9 1 1 1 1 f . . . 
-            . . . . f 1 1 1 1 1 1 f . . f . 
-            . f . . . f 1 1 1 1 f . . f 9 f 
-            f 9 f . . . f f f f . . f 9 f f 
-            . f 9 f . . . . . . . f 9 f . . 
-            . . f f . . . . . . . . f . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            `)
-        music.playTone(175, music.beat(BeatFraction.Half))
-        controller.vibrate(500)
-        while (!(mySprite.isHittingTile(CollisionDirection.Bottom))) {
-            mySprite.vx = -200
-            animation.stopAnimation(animation.AnimationTypes.All, mySprite)
-            mySprite.setImage(img`
-                . . . . . . . . . . . . . . . . 
-                . . . . . . . . . . . . . . . . 
-                . . . . . . f f f f . . . . . . 
-                . . . . . f 1 1 1 1 f . . . . . 
-                . . . . f 1 1 9 9 9 9 f . . . . 
-                . . . f 9 9 9 9 9 f 9 9 f . . . 
-                . . . f 9 f 9 9 9 f 9 9 f . . . 
-                . . . f 9 9 f 9 9 9 9 9 f . . . 
-                . . . f 9 9 9 9 1 1 1 1 f . . . 
-                . . . . f 1 1 1 1 1 1 f . . f . 
-                . f . . . f 1 1 1 1 f . . f 9 f 
-                f 9 f . . . f f f f . . f 9 f f 
-                . f 9 f . . . . . . . f 9 f . . 
-                . . f f . . . . . . . . f . . . 
-                . . . . . . . . . . . . . . . . 
-                . . . . . . . . . . . . . . . . 
-                `)
-            pause(1)
-        }
-        mySprite.setImage(img`
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . f f f f . . . . . . . . . 
-            . . f 9 9 9 9 f . . . . . . . . 
-            . f 1 9 9 f 9 1 f . . . . . . . 
-            f 1 1 9 f 9 9 1 1 f . . . f f f 
-            f 1 1 9 9 9 9 1 1 f . . f 9 9 f 
-            f 1 1 9 9 9 9 1 1 f . f 9 9 f . 
-            f 1 1 1 1 1 1 1 1 f . f 9 f . . 
-            . f f f f f f f f . . f f . . . 
-            `)
-        scene.cameraShake(8, 200)
-        music.playTone(147, music.beat(BeatFraction.Quarter))
-        controller.vibrate(500)
-        mySprite.vx = 0
-        while (!(controller.A.isPressed() || controller.right.isPressed() || controller.left.isPressed() || controller.up.isPressed())) {
-            pause(1)
-        }
-        mySprite.setImage(img`
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . f f f f . . . . . . 
-            . . . . . f 1 1 1 1 f . . . . . 
-            . . . . f 1 1 1 1 1 1 f . . . . 
-            . . . f 1 1 9 9 9 9 9 9 f . . . 
-            . . . f 1 1 9 9 9 f 9 f f . . . 
-            . . . f 1 1 9 9 9 f 9 f f . . . 
-            . . . f 1 1 9 9 9 9 9 9 f . . . 
-            . . . . f 1 1 1 1 1 1 f . . . . 
-            . . . . . f 1 1 1 1 f . . . . . 
-            . f f . . . f f f f . . . f f . 
-            f 9 9 f . . . . . . . . f 9 9 f 
-            . f 9 9 f . . . . . . f 9 9 f . 
-            . . f 9 f . . . . . . f 9 f . . 
-            . . . f . . . . . . . . f . . . 
-            `)
-        if (controller.right.isPressed() || controller.left.isPressed()) {
-            mySprite.vy = -70
-        }
-        music.playTone(220, music.beat(BeatFraction.Half))
-    }
-    if (mySprite.tileKindAt(TileDirection.Left, assets.tile`myTile1`)) {
-        merge = 0
-        mySprite.vx = -50
-        mySprite.vx = 50
-        scene.cameraShake(40, 200)
-        mySprite.setImage(img`
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . f f f f . . . . . . 
-            . . . . . f 1 1 1 1 f . . . . . 
-            . . . . f 9 9 9 9 1 1 f . . . . 
-            . . . f 9 9 f 9 9 9 9 9 f . . . 
-            . . . f 9 9 f 9 9 9 f 9 f . . . 
-            . . . f 9 9 9 9 9 f 9 9 f . . . 
-            . . . f 1 1 1 1 9 9 9 9 f . . . 
-            . f . . f 1 1 1 1 1 1 f . . . . 
-            f 9 f . . f 1 1 1 1 f . . . f . 
-            f f 9 f . . f f f f . . . f 9 f 
-            . . f 9 f . . . . . . . f 9 f . 
-            . . . f . . . . . . . . f f . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            `)
-        music.playTone(175, music.beat(BeatFraction.Half))
-        while (!(mySprite.isHittingTile(CollisionDirection.Bottom))) {
-            mySprite.vx = -200
-            animation.stopAnimation(animation.AnimationTypes.All, mySprite)
-            mySprite.setImage(img`
-                . . . . . . . . . . . . . . . . 
-                . . . . . . . . . . . . . . . . 
-                . . . . . . f f f f . . . . . . 
-                . . . . . f 1 1 1 1 f . . . . . 
-                . . . . f 9 9 9 9 1 1 f . . . . 
-                . . . f 9 9 f 9 9 9 9 9 f . . . 
-                . . . f 9 9 f 9 9 9 f 9 f . . . 
-                . . . f 9 9 9 9 9 f 9 9 f . . . 
-                . . . f 1 1 1 1 9 9 9 9 f . . . 
-                . f . . f 1 1 1 1 1 1 f . . . . 
-                f 9 f . . f 1 1 1 1 f . . . f . 
-                f f 9 f . . f f f f . . . f 9 f 
-                . . f 9 f . . . . . . . f 9 f . 
-                . . . f . . . . . . . . f f . . 
-                . . . . . . . . . . . . . . . . 
-                . . . . . . . . . . . . . . . . 
-                `)
-            pause(1)
-        }
-        mySprite.setImage(img`
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . f f f f . . . 
-            . . . . . . . . f 9 9 9 9 f . . 
-            . . . . . . . f 1 9 f 9 9 1 f . 
-            f f f . . . f 1 1 9 9 f 9 1 1 f 
-            f 9 9 f . . f 1 1 9 9 9 9 1 1 f 
-            . f 9 9 f . f 1 1 9 9 9 9 1 1 f 
-            . . f 9 f . f 1 1 1 1 1 1 1 1 f 
-            . . . f f . . f f f f f f f f . 
-            `)
-        scene.cameraShake(8, 200)
-        music.playTone(147, music.beat(BeatFraction.Quarter))
-        mySprite.vx = 0
-        while (!(controller.A.isPressed() || controller.right.isPressed() || controller.left.isPressed() || controller.up.isPressed())) {
-            pause(1)
-        }
-        mySprite.setImage(img`
-            . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . . . . . . 
-            . . . . . . f f f f . . . . . . 
-            . . . . . f 1 1 1 1 f . . . . . 
-            . . . . f 1 1 1 1 1 1 f . . . . 
-            . . . f 9 9 9 9 9 9 1 1 f . . . 
-            . . . f f 9 f 9 9 9 1 1 f . . . 
-            . . . f f 9 f 9 9 9 1 1 f . . . 
-            . . . f 9 9 9 9 9 9 1 1 f . . . 
-            . . . . f 1 1 1 1 1 1 f . . . . 
-            . . . . . f 1 1 1 1 f . . . . . 
-            . f f . . . f f f f . . . f f . 
-            f 9 9 f . . . . . . . . f 9 9 f 
-            . f 9 9 f . . . . . . f 9 9 f . 
-            . . f 9 f . . . . . . f 9 f . . 
-            . . . f . . . . . . . . f . . . 
-            `)
-        if (controller.right.isPressed() || controller.left.isPressed()) {
-            mySprite.vy = -70
-        }
-        music.playTone(220, music.beat(BeatFraction.Half))
-    }
-})
-forever(function () {
-    if (mySprite.overlapsWith(mySprite4)) {
-        if (0 < mySprite.vy) {
-            mySprite4.y += -16
-            mySprite.setFlag(SpriteFlag.Invisible, true)
-            mySprite4.vx = 50
-            if (merge == 0) {
-                mySprite4.setImage(img`
-                    ................................
-                    ................................
-                    ................................
-                    ................................
-                    ................................
-                    ................................
-                    ................................
-                    ................................
-                    ..............ffff..............
-                    .............f1111f.............
-                    ............f111111f............
-                    ...........f11199999f...........
-                    ...........f111999f9f...........
-                    ...........f111999f9f...........
-                    ...........f11199999f...........
-                    ............f111111f............
-                    .............f1111f.............
-                    ..............ffff..............
-                    ................................
-                    ..............ffff..............
-                    .............f9999f.............
-                    .ffffffffffffffffffffffffffffff.
-                    .f4554445555444444445555444554f.
-                    .f4554445555444444445555444554f.
-                    .f4554445555444444445555444554f.
-                    ..f45544455544444444555444554f..
-                    ..f45554445554444445554445554f..
-                    ...f444544455444444554445444f...
-                    ....fff454455444444554454fff....
-                    .......ffffffffffffffffff.......
-                    ................................
-                    ................................
-                    `)
-            } else {
-                mySprite4.setImage(img`
-                    ................................
-                    ................................
-                    .............ffffff.............
-                    ...........ff111111ff...........
-                    ..........f1111111111f..........
-                    ........ff111111111111ff........
-                    ........f11111111111111f........
-                    .......f1111111111111111f.......
-                    ......f111111111111111111f......
-                    ......f111111111aaaaaaaaaf......
-                    .....f111111111aaaaaaaaaaaf.....
-                    .....f111111111aaaaaaaffaaf.....
-                    .....f111111111aaaaaaa1faaf.....
-                    .....f111111111aaaaaaaffaaf.....
-                    .....f111111111aaaaaaaffaaf.....
-                    .....f111111111aaaaaaaffaaf.....
-                    ......f11111111aaaaaaaaaaf......
-                    ......f111111111aaaaaaaaaf......
-                    .......f1111111111111111f.......
-                    ........f11111111111111f........
-                    ........ff111111111111ff........
-                    ..........f1111111111f..........
-                    ...........ff111111ff...........
-                    .............ffffff.............
-                    ................................
-                    ................................
-                    ............ffffffff............
-                    ...........faaaaaaaaf...........
-                    ...........faaaaaaaaf...........
-                    .ffffffffffffffffffffffffffffff.
-                    .f4554445555444444445555444554f.
-                    .f4554445555444444445555444554f.
-                    .f4554445555444444445555444554f.
-                    ..f45544455544444444555444554f..
-                    ..f45554445554444445554445554f..
-                    ...f444544455444444554445444f...
-                    ....fff454455444444554454fff....
-                    .......ffffffffffffffffff.......
-                    ................................
-                    ................................
-                    `)
-            }
-            while (!(mySprite4.tileKindAt(TileDirection.Right, assets.tile`myTile24`))) {
-                mySprite.vy = 0
-                mySprite.setPosition(mySprite4.x, mySprite4.y)
-                pause(1)
-            }
-            mySprite4.y += 16
-            mySprite4.setImage(img`
-                ................................
-                ................................
-                ................................
-                ................................
-                ................................
-                .ffffffffffffffffffffffffffffff.
-                .f4554445555444444445555444554f.
-                .f4554445555444444445555444554f.
-                .f4554445555444444445555444554f.
-                ..f45544455544444444555444554f..
-                ..f45554445554444445554445554f..
-                ...f444544455444444554445444f...
-                ....fff454455444444554454fff....
-                .......ffffffffffffffffff.......
-                ................................
-                ................................
-                `)
-            mySprite.setImage(img`
-                . . . . . . . . . . . . . . . . 
-                . . . . . . . . . . . . . . . . 
-                . . . . . . f f f f . . . . . . 
-                . . . . . f 1 1 1 1 f . . . . . 
-                . . . . f 1 1 1 1 1 1 f . . . . 
-                . . . f 1 1 9 9 9 9 9 9 f . . . 
-                . . . f 1 1 9 9 9 f 9 f f . . . 
-                . . . f 1 1 9 9 9 f 9 f f . . . 
-                . . . f 1 1 9 9 9 9 9 9 f . . . 
-                . . . . f 1 1 1 1 1 1 f . . . . 
-                . . . . . f 1 1 1 1 f . . . . . 
-                . f f . . . f f f f . . . f f . 
-                f 9 9 f . . . . . . . . f 9 9 f 
-                . f 9 9 f . . . . . . f 9 9 f . 
-                . . f 9 f . . . . . . f 9 f . . 
-                . . . f . . . . . . . . f . . . 
-                `)
-            mySprite.vy += -25
-            mySprite.setFlag(SpriteFlag.Invisible, false)
-            pause(2000)
-            mySprite4.vx = 0
-            tiles.placeOnRandomTile(mySprite4, assets.tile`myTile20`)
-        } else {
-            mySprite.vy = -80
-        }
-    }
-})
-forever(function () {
-    if (Player_2.isHittingTile(CollisionDirection.Left) || Player_2.isHittingTile(CollisionDirection.Right)) {
-        Player_2.vy = -250
-        while (Player_2.isHittingTile(CollisionDirection.Left) || Player_2.isHittingTile(CollisionDirection.Right)) {
-            pause(1)
-        }
-    }
-})
-forever(function () {
-    if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile7`)) {
-        pause(100)
-        tiles.setTilemap(tilemap`level4`)
-        Boss = 1
-        music2 = 2
-        Boss_HP = 1
-        music.stopAllSounds()
-        Player_2.setPosition(mySprite.x, mySprite.y)
-        mySprite2 = sprites.create(img`
-            ........fffffffffffff...........
-            .......f7777777777777fffff......
-            ......f777777777777777777ff.....
-            .....f77777777777777777777f.....
-            .....f77777777777777777777f.....
-            ....f77777777777777f177777f.....
-            ....f77777777777777ff77777f.....
-            ...f7777777777777777777777f.....
-            ...f7777777777777777777777f.....
-            ...f7777f17777777777777777f.....
-            ...f7777ff7777777777777777f.....
-            ...f7777777777777777777777f.....
-            ...f777777777777777777777ff.....
-            ...f77777777777777777777ff......
-            ...ff777777777777777777ff.......
-            ....ffffffffffffffffffff........
-            `, SpriteKind.Enemy)
-        mySprite2.setBounceOnWall(true)
-        tiles.placeOnRandomTile(mySprite2, assets.tile`myTile`)
-        mySprite2.vx += 100
-    }
-    if (!(Boss_HP == 0) && Boss == 1 && mySprite2.isHittingTile(CollisionDirection.Bottom)) {
-        mySprite2.vy = -200
-    }
-    if (!(Boss_HP == 0) && Boss == 1) {
-        mySprite2.vy += 5
-    }
-})
-forever(function () {
-	
-})
-forever(function () {
-    if (merge == 1) {
-        Player_2.setFlag(SpriteFlag.Invisible, true)
-    } else {
-        Player_2.setFlag(SpriteFlag.Invisible, false)
     }
 })
