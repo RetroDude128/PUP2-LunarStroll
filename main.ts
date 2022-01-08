@@ -3587,6 +3587,8 @@ forever(function () {
         a = 0
         tiles.placeOnRandomTile(Petscii_Smiler, assets.tile`myTile`)
         projectile.vy = 50
+        Petscii_Smiler.vx = 50
+        Petscii_Smiler.setBounceOnWall(true)
     }
     if (Boss == 2) {
         pause(1900)
