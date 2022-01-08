@@ -3591,7 +3591,7 @@ forever(function () {
         Petscii_Smiler.setBounceOnWall(true)
     }
     if (Boss == 2) {
-        pause(1900)
+        pause(0900)
         projectile.setPosition(Petscii_Smiler.x, Petscii_Smiler.y + 25)
         scene.cameraShake(4, 200)
         for (let index = 0; index < 100; index++) {
