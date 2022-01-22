@@ -1928,9 +1928,6 @@ forever(function () {
     a += 1
 })
 forever(function () {
-	
-})
-forever(function () {
     if (mySprite.tileKindAt(TileDirection.Center, assets.tile`myTile18`)) {
         if (tiles.tileAtLocationEquals(tiles.getTileLocation(Math.round(mySprite.x / 16), Math.round(mySprite.y / 16) - 1 + merge), assets.tile`myTile18`)) {
             for (let value of tiles.getTilesByType(assets.tile`myTile`)) {
